@@ -5,7 +5,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Preserve life and light in the world.</span>* 
 
-The Oath of the Ancients is as old as the first [[elves]] and the rituals of [[Druid|druids]]. [[Paladin|Paladins]] who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
+The Oath of the Ancients is as old as the first [[Elves]] and the rituals of [[Druid|druids]]. [[Paladin|Paladins]] who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
 
 > <span style="color:rgb(193, 145, 56)">Where there is good, beauty, love, and laughter in the world, I stand against the wickedness that would swallow it. Where life flourishes, I stand against the forces that would render it barren.</span>
 > 

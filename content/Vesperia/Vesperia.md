@@ -14,7 +14,7 @@ Vesperia is the middle layer of [[Gaia]], situated between the [[Feywild]] and t
 
 > [!note] This plane is the frame of reference for most scholars and explorers of the universe, and thus will be the frame of reference for this wiki. 
 
-Vesperia is home to many [[Species|species]] from across [[Ao]], and even some who "leaked" through from the [[Far Realms]]. Natives of Vesperia include [[Giants|giants]], [[Goliaths|goliaths]], [[Dwarves|dwarves]], [[Orcs|orcs]], [[Halflings|halflings]], and [[Humans|humans]].  
+Vesperia is home to many [[Species|species]] from across [[Ao]], and even some who "leaked" through from the [[Far Realms]]. Natives of Vesperia include [[Giants|giants]], [[Goliaths|goliaths]], [[Dragons|dragons]] [[Dwarves|dwarves]], [[Orcs|orcs]], [[Halflings|halflings]], and [[Humans|humans]].  
 
 Vesperia has 5 [[Geographical Features of Gaia|continents]]. It is home to several notable peoples and civilizations, including:
 - The [[Ellikan Clan]]

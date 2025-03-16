@@ -5,7 +5,7 @@ draft: false
 ---
 ### History
 
-The Numerical Solar Calendar was standardized across [[Naurhith]] in `1.0.5.3 PRC`, by [[Elves|elven]] scholars in the great library of [[Quartzkeep]], as salience for compiling historical information following the [[Redroar Crisis]] became apparent. The spring equinox after the Redroar Crisis was chosen to start the year because of it's importance in elvish culture in Naurhith. 
+The Numerical Solar Calendar was standardized across [[Naurhith]] in `1.0.5.3 PRC`, by [[Elves|elven]] scholars in the great library of [[Quartzkeep]], as salience for compiling historical information following the [[Redroar Crisis]] became apparent. The spring equinox after the Redroar Crisis was chosen to start the year because of it's importance in elven culture in Naurhith. 
 
 In present day (`2568 PRC`), the Numerical Solar Calendar is the standard for [[Naurhith]], the [[Khalsan Empire]], and many smaller entities around the world (including most arcane scholars).
 
