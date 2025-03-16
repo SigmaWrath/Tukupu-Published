@@ -20,16 +20,17 @@ draft: true
 		1. Rewrite drow (OMFG)
 3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
 	1. All classes (2 remaining)
-		1. Ideally fill in tools? From tool proficiency section of each class
-		2. Rogue: A dextrous expert in stealth and subterfuge. 
-		3. Sorcerer: A dazzling mage filled with innate magic. 
+		1. Standardize equipment formatting and GP cost
+		2. Ideally fill in tools? From tool proficiency section of each class
 	2. All species (6 remaining)
-		1. What kind of names does each species have?
-		2. How big are they and how long do they live?
+		2. What kind of names does each species have?
+		3. How big are they and how long do they live?
 	3. All backgrounds (8 remaining)
-		1. Also obv all origin feats... fix them up too if they need it... like Crafter
-	4. Four subclasses per class... try to get most done tho? Dw if not
-		2. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
+		4. Also obv all origin feats
+	4. Languages page, don't write articles, just list or write very brief articles
+		5. Jupi is spoken in the Khalsan empire
+	5. Four subclasses per class... try to get most done tho? Dw if not
+		6. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
 4. Weapons and weapon mastery rules
 5. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
 6. Change the names of the renowned wizards who have spells named after them.
@@ -42,9 +43,12 @@ draft: true
 3. Rename index file with directory override
 
 ### <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
-- Cowgirls from Gorano herd Rothé, and discovered the secrets to firearms with the natural ingreduents for gunpowder available in the volcanic, mountainous areas. They were originally experimenting with spell components and alchemy.
 - Model the outer planes as like "here are the planes that have the similar enough rules of physics to ours that we can survive". Perhaps include Arborea, probs the Abyss? (in a way more similar to Kane Chronicles [duat](https://riordan.fandom.com/wiki/Duat#The_Houses_of_the_Night) abyss), and model other stuff of Kane Chronicles. 
 	- Connected planes are part of the "partition"
+	- Between sun and stars: a plane dedicated to mathematics
+		1. Level one (entirely the main level) is a supermassive, plane-sized computer. For what? Uhhhh the lovers only know
+			- Maybe it's mechanical, or maybe... it's natural. Turbulent flow models computational effects???? Maybe a mixture of both. I have no fucking idea... let's cook this some more later. 
+		2. Level two is the visualization of what that computation is carrying out
 	- Perhaps the Court of Stars should be its own outer plane (Queen ~~Morwel~~ Leora)
 		- It is directly connected to the Feywild
 		- Should have a portal to the Beastlands?
@@ -83,3 +87,13 @@ draft: true
 			- But we could also just make Lamias a non-playable Ardling... yeah okay do this
 			- OOOH! Melathia, the Snake Queen (Beast Lord)... wait actually perhaps not, because I want the Beast Lords to be a lil distant from personhood... mm we'll see
 			- Also, desert Lamias like you would expect, but also river Lamias (kind of like Nagas from Hindu mythology—we'll even call these Nagas with a lil "human misunderstandings" section)
+
+
+| Dragon         | Breath Type |
+| -------------- | ----------- |
+| Magus          | Lightning   |
+| Warrior        | Cold        |
+| Paragon        | Fire        |
+| Artisan        | Poison      |
+| Steward        | Acid        |
+| Dragon-turtles | Thunder     |

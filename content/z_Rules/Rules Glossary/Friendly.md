@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">A Friendly creature views you favorably. You have Advantage on an ability check to influence a Friendly creature.</span>*
