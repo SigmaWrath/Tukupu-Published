@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">As a Bonus Action, you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have Advantage on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack’s damage roll.</span>*

@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">When you make a Charisma (Intimidation, Performance, or Persuasion) check, you can expend one Superiority Die and add that die to the ability check.</span>*

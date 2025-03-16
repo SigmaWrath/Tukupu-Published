@@ -10,7 +10,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Roam the lands as a gunslinging herder.</span>*
 
-Rothé Rider [[Ranger|rangers]] <span style="color:rgb(125, 125, 125)">(aka Herder rangers, Cowpokes)</span> emerged in the volcanic deserts of [[Gorano]] in [[Vesperia]], herding the [[Rothé|rothé]] that roamed there. With the rich mineral resources of the volcanic land and the innovative magical culture amongst the herders who dwelt there, experimentation with alchemy for spell components resulted in the serendipitous development of gunpowder. Eventually, this led to the creation of firearms, popularizing the gunslinging archetype for which cowgirls are famous.
+Rothé Rider [[Ranger|rangers]] <span style="color:rgb(125, 125, 125)">(aka Herder rangers, Cowpokes)</span> emerged in the volcanic deserts of [[Gorano]] in [[Vesperia]], herding the [[Rothé|rothé]] that roamed there. With the rich mineral resources of the volcanic land and the innovative magical culture amongst the herders who dwelt there, experimentation with alchemy for spell components resulted in the serendipitous development of gunpowder. Eventually, this led to the creation of firearms, popularizing the famous gunslinging cowgirl archetype.
 
 Cowpoke rangers did not follow the traditional creation of conclaves, but rather, ranger magic found them. Herders protected their ranches and their cattle, respected the land and learned its secrets so they could survive on it, they bonded with their animal companions, and that was enough for the first traces of ranger magic to manifest in these newborn rangers. Years of refinement, perfecting, and teaching, have made of this emerging ranger way a true conclave, complete with masters, disciples, and traditions and lessons to follow.
 

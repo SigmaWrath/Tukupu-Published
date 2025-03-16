@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">When another creature damages you with a melee attack, you can use your Reaction and expend one Superiority Die to reduce the damage by the number you roll on your Superiority Die plus your Strength or Dexterity modifier (your choice).</span>*

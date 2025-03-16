@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">As a Bonus Action, you can expend one Superiority Die to bolster the resolve of a companion. Choose an ally of yours who can see or hear you. That creature gains Temporary Hit Points equal to the Superiority Die roll plus your Intelligence, Wisdom, or Charisma modifier (your choice).</span>*

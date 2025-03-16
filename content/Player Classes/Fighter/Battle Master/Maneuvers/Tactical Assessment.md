@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">When you make an Intelligence (History or Investigation) check or a Wisdom (Insight) check, you can expend one Superiority Die and add that die to the ability check.</span>*

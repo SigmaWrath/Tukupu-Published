@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">When you make a Dexterity (Stealth) check or an initiative roll, you can expend one Superiority Die and add the die to the roll, provided you don’t have the [[Incapacitated]] condition.</span>*

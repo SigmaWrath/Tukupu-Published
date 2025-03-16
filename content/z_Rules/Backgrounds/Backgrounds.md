@@ -4,6 +4,7 @@ Backgrounds:
 - [[Acolyte (Background)]]
 - [[Artisan (Background)]]
 - [[Charlatan (Background)]]
+- [[Criminal (Background)]]
 - [[Entertainer (Background)]]
 - [[Farmer (Background)]]
 - [[Guard (Background)]]

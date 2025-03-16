@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">When you move at least 5 feet on your turn, you can expend one Superiority Die, rolling the die and adding the number rolled to your AC until the end of the turn.</span>*

@@ -19,17 +19,17 @@ draft: true
 	2. Elves?
 		1. Rewrite drow (OMFG)
 3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-	1. All classes (3 remaining)
+	1. All classes (2 remaining)
 		1. Ideally fill in tools? From tool proficiency section of each class
-		2. Fighter: A master of all arms and armor. 
-		3. Rogue: A dextrous expert in stealth and subterfuge. 
-		4. Sorcerer: A dazzling mage filled with innate magic. 
+		2. Rogue: A dextrous expert in stealth and subterfuge. 
+		3. Sorcerer: A dazzling mage filled with innate magic. 
 	2. All species (6 remaining)
 		1. What kind of names does each species have?
 		2. How big are they and how long do they live?
-	3. All backgrounds (14 remaining)
+	3. All backgrounds (8 remaining)
 		1. Also obv all origin feats... fix them up too if they need it... like Crafter
 	4. Four subclasses per class... try to get most done tho? Dw if not
+		2. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
 4. Weapons and weapon mastery rules
 5. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
 6. Change the names of the renowned wizards who have spells named after them.
@@ -38,7 +38,7 @@ draft: true
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Figure out a way to grey out or flag non-functional links <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-2. Get leaflet working (or some other pinned maps) <span style="color:rgb(186, 74, 120)">(Quick fix before SATURDAY)</span>
+2. Get leaflet working (or some other pinned maps)
 3. Rename index file with directory override
 
 ### <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 

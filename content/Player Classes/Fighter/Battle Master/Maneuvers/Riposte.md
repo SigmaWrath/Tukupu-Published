@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">When a creature misses you with a melee attack, you can use your Reaction and expend one Superiority Die to make a melee attack with a weapon or an Unarmed Strike against the creature. If you hit, add the Superiority Die to the attack’s damage.</span>*

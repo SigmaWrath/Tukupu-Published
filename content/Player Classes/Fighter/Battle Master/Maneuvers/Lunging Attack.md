@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">As a Bonus Action, you can expend one Superiority Die and take the Dash action. If you move at least 10 feet in a straight line immediately before hitting with a melee attack as part of the Attack action on this turn, you can add the Superiority Die to the attack’s damage roll.</span>*
