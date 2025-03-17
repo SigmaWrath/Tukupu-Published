@@ -11,7 +11,7 @@ draft: false
 ---
 
 
-> *<span style="color:rgb(125, 125, 125)">Tieflings are humanoids infused with the essence of the [[Infernal Planes]].</span>*
+> *<span style="color:rgb(125, 125, 125)">Tieflings are humanoids infused with the essence of the [[Fiendish Planes]].</span>*
 
 ### Overview
 

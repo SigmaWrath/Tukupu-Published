@@ -34,7 +34,7 @@ Bound to nature, the fuyohren bear an imprint of the world at the time of their 
 
 **<span style="color:rgb(134, 93, 187)">Water Magic</span>**: Through a 10 minute ritual, you can imbue a vial of ordinary water with magical properties. Choose one of the following effects:
 
-- ﻿﻿The water gains the magical properties of holy water
+- ﻿﻿The water gains the magical properties of [[Holy Water]]
 - ﻿﻿The water becomes a simple antidote that ends the [[Poisoned]] condition when drunk by one creature
 - ﻿﻿The water is imbued with vitality. Drinking the vial is enough liquid to hydrate a Large or smaller creature for 24 hours
 - ﻿﻿The water bubbles with healing magic. A creature who ingests the vial of water regains 1d4 Hit Points

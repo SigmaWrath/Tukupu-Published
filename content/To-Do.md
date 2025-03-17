@@ -1,8 +1,34 @@
 ---
 draft: true
 ---
+## Session Prep
+1. Text messages:
+	1. Send out When2Meet
+	2. Ask for character sheets
+	3. Send out safety tools
+3. All obsidian items listed below
+4. Feywild page
+5. Train everything - everything ever to do with train
+	1. History
+	2. Stops
+	3. How worky
+	4. Compartments
+	5. People on train
+		1. Plants on train
+		2. Animals on train
+		3. Biomes on train?
+	6. Map of train
+6. Build (3) in coordination with mystery
+	1. Geopolitics is a good place to start with adventure hooks and motivations
+	2. What do people want? And when their wants conflict, what happens as a result?
+	3. Note: Players outlined some BS they wanted. INCLUDE
+		1. Printing press
+		2. Mead brewing ability aka a tavern
+		3. Gimmicks and hijinks
+		4. Mysteryyyyyy
+		5. Unique flora (and fauna)
 ## <span style="color:rgb(134, 93, 187)">Obsidian</span>
-1. Planar overhaul <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
+1. Planar overhaul <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. Rename core planes to Gaia 
 		1. Cover every instance
 		2. Make Gaia article separate from Parallel Planes 
@@ -14,35 +40,29 @@ draft: true
 		2. Delete the category of transient planes
 			1. Add Ethereal Plane to Proximal Planes
 			2. Leave Astral Plane on it's own
-2. Implement integrated pointy hat fixes <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-	1. Gnomes
-	2. Elves?
-		1. Rewrite drow (OMFG)
-3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-	1. All classes (2 remaining)
+2. Implement integrated PH fixes <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+	1. Species lore rebuilding???
+3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+	2. All classes 
 		1. Standardize equipment formatting and GP cost
-		2. Ideally fill in tools? From tool proficiency section of each class
-	2. All species (6 remaining)
-		2. What kind of names does each species have?
-		3. How big are they and how long do they live?
-	3. All backgrounds (8 remaining)
-		4. Also obv all origin feats
-	4. Languages page, don't write articles, just list or write very brief articles
-		5. Jupi is spoken in the Khalsan empire
-	5. Four subclasses per class... try to get most done tho? Dw if not
-		6. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
-4. Weapons and weapon mastery rules
-5. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
-6. Change the names of the renowned wizards who have spells named after them.
-7. Mortal manifestations of deities (appearances)??
-8. Solars and lunars - servants of deities
+4. All backgrounds (6 remaining)
+	1. Also obv all origin feats
+	2. Ideally fill in tools? From tool proficiency section of each class
+5. Languages page, don't write articles, just list or write very brief articles
+	3. Jupi is spoken in the Khalsan empire
+6. Four subclasses per class... try to get most done tho? Dw if not
+7. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
+8. Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+9. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
+10. Change the names of the renowned wizards who have spells named after them.
+11. Mortal manifestations of deities (appearances)??
+12. Solars and lunars - servants of deities
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
-1. Figure out a way to grey out or flag non-functional links <span style="color:rgb(192, 82, 75)">(BEFORE SATURDAY)</span>
-2. Get leaflet working (or some other pinned maps)
-3. Rename index file with directory override
+1. Get leaflet working (or some other pinned maps)
+2. Rename index file with directory override
 
-### <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
+## <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
 - Model the outer planes as like "here are the planes that have the similar enough rules of physics to ours that we can survive". Perhaps include Arborea, probs the Abyss? (in a way more similar to Kane Chronicles [duat](https://riordan.fandom.com/wiki/Duat#The_Houses_of_the_Night) abyss), and model other stuff of Kane Chronicles. 
 	- Connected planes are part of the "partition"
 	- Between sun and stars: a plane dedicated to mathematics
