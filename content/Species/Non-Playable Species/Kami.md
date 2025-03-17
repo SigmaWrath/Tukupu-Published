@@ -5,11 +5,11 @@ tags:
   - non-playable
   - species
 ---
-> <span style="font-style:italic; color:rgb(125, 125, 125)">Kami are spirits of nature's power manifest, who have forms in each of the [[Parallel Planes|core planes]].</span>
+> <span style="font-style:italic; color:rgb(125, 125, 125)">Kami are spirits of nature's power manifest, who have forms in each layer of [[Gaia]].</span>
 
-Kami only generally exist in the vicinity of the natural landmark they are intertwined with (mountains, rivers, forests, fields, etc.)—this area is called their <span style="color:rgb(79, 151, 125)">domain</span>. Natural landmarks are synchronized across the [[Parallel Planes|core planes]] by the nature of those planes, and if a kami's domain is completely destroyed in one of the core planes, the kami dies and the domain is removed from the other planes as well. 
+Kami only generally exist in the vicinity of the natural landmark they are intertwined with (mountains, rivers, forests, fields, etc.)—this area is called their <span style="color:rgb(79, 151, 125)">domain</span>. Natural landmarks are synchronized across the layers of [[Gaia]] by the nature of those planes, and if a kami's domain is completely destroyed in one of the layers, the kami dies and the domain is removed from the other layers as well. 
 
-A kami only exists in one plane at a time, but freely steps between them. Though their central identity remains unchanged, a Kami’s form and temperament shift depending on the plane:
+A kami only exists in one layer of Gaia at a time, but freely steps between them. Though their central identity remains unchanged, a Kami’s form and temperament shift depending on the plane:
 - In the [[Feywild]], they radiate vibrant, chaotic energy, embodying nature in its most flourishing and whimsical state
 - In the [[Shadowfell]], they take on a more solemn, spectral aspect, reflecting decay and doom
 - On the [[Vesperia|Material Plane]], they manifest as a balanced presence, acting as the spiritual protectors of their domains

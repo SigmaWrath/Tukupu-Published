@@ -8,7 +8,7 @@ tags:
 | <span style="color:rgb(125, 125, 125)">Feature</span> | <span style="color:rgb(125, 125, 125)">Hermit</span>                                                                                        |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ability Scores                                        | Constitution, Wisdom, Charisma                                                                                                              |
-| Feat                                                  | [[Healer]]                                                                                                                                  |
+| Feat                                                  | [[Healer (Feat)]]                                                                                                                                  |
 | Skill Proficiencies                                   | Medicine and Religion                                                                                                                       |
 | Tool Proficiency                                      | [[Herbalism Kit]]                                                                                                                           |
 | Equipment                                             | *Choose A or B*: (A) Quarterstaff, Herbalism Kit, Bedroll, Book (philosophy), Lamp, Oil (3 flasks), Traveler's Clothes, 16 GP; or (B) 50 GP |

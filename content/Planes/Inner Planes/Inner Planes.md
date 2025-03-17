@@ -5,8 +5,9 @@ aliases:
 tags:
   - plane
 ---
-> <span style="color:rgb(125, 125, 125)">*The inner planes are the [[Planes|planes]] most closely connected to the [[Vesperia|Material Plane]].*</span>
+> <span style="color:rgb(125, 125, 125)">*The inner planes are a semantic category of [[Planes|plane]] referring to [[Gaia]] and the [[Proximal Planes]].*</span>
 
-The inner planes encompass:
-- [[Parallel Planes]]
+The inner planes are:
+- [[Gaia]]
+- [[Ethereal Plane]]
 - [[Elemental Planes]]

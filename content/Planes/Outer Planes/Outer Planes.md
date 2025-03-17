@@ -17,7 +17,7 @@ The outer planes are immensely varied. Some obey different laws of physics <span
 | [[Naltor]] (The Dream Realm)                               | Dreams                                                     | Between Moon and Stars  | <span style="color:rgb(134, 93, 187)">MT</span> |
 | [[Houses of Night]]                                        | Night, Moon, Change                                        | Cardinal Moon           | <span style="color:rgb(134, 93, 187)">M</span>  |
 | [[Beastlands]]                                             | Animals                                                    | Between Moon and Planet | <span style="color:rgb(134, 93, 187)">MP</span> |
-| [[Aldania]] ([[The Lovers]]' Palace)                       | Love                                                       | Cardinal Planet         | <span style="color:rgb(134, 93, 187)">P</span>  |
+| [[Gaia]]                                                   | Life and Death                                             | Cardinal Planet         | <span style="color:rgb(134, 93, 187)">P</span>  |
 | [[Wildsea]]                                                | Nature vs. Construction                                    | Between Sun and Planet  | <span style="color:rgb(134, 93, 187)">SP</span> |
 | <span style="color:rgb(125, 125, 125)">UNDISCOVERED</span> | <span style="color:rgb(125, 125, 125)">UNDISCOVERED</span> | Cardinal Sun            | <span style="color:rgb(134, 93, 187)">S</span>  |
 | <span style="color:rgb(125, 125, 125)">UNDISCOVERED</span> | <span style="color:rgb(125, 125, 125)">UNDISCOVERED</span> | Between Sun and Stars   | <span style="color:rgb(134, 93, 187)">ST</span> |

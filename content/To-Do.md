@@ -3,14 +3,14 @@ draft: true
 ---
 ## Session Prep
 1. Text messages:
-	1. Send out When2Meet
-	2. Ask for character sheets
-	3. Send out safety tools
-3. All obsidian items listed below
-4. Feywild page
-5. Train everything - everything ever to do with train
+	1. Ask for character sheets
+	2. Send out safety tools
+2. All obsidian items listed below
+3. Feywild page
+4. Train everything - everything ever to do with train
 	1. History
 	2. Stops
+		1. Material Plane > Feywild > Ethereal Plane (Radiant Citadel) > Elemental Plane of Water > Naltor
 	3. How worky
 	4. Compartments
 	5. People on train
@@ -18,7 +18,7 @@ draft: true
 		2. Animals on train
 		3. Biomes on train?
 	6. Map of train
-6. Build (3) in coordination with mystery
+5. Build (3) in coordination with mystery
 	1. Geopolitics is a good place to start with adventure hooks and motivations
 	2. What do people want? And when their wants conflict, what happens as a result?
 	3. Note: Players outlined some BS they wanted. INCLUDE
@@ -43,20 +43,18 @@ draft: true
 2. Implement integrated PH fixes <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. Species lore rebuilding???
 3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
-	2. All classes 
+	1. All classes 
 		1. Standardize equipment formatting and GP cost
-4. All backgrounds (6 remaining)
-	1. Also obv all origin feats
-	2. Ideally fill in tools? From tool proficiency section of each class
-5. Languages page, don't write articles, just list or write very brief articles
-	3. Jupi is spoken in the Khalsan empire
-6. Four subclasses per class... try to get most done tho? Dw if not
-7. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
-8. Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
-9. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
-10. Change the names of the renowned wizards who have spells named after them.
-11. Mortal manifestations of deities (appearances)??
-12. Solars and lunars - servants of deities
+		2. Ideally fill in tools? From tool proficiency section of each class. (Also can find tools in backgrounds. Check unlinked mentions for each tool we end up creating)
+4. Languages page, don't write articles, just list or write very brief articles
+	1. Jupi is spoken in the Khalsan empire
+5. Four subclasses per class... try to get most done tho? Dw if not
+6. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
+7. Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+8. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
+9. Change the names of the renowned wizards who have spells named after them.
+10. Mortal manifestations of deities (appearances)??
+11. Solars and lunars - servants of deities
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Get leaflet working (or some other pinned maps)
@@ -74,7 +72,8 @@ draft: true
 		- Should have a portal to the Beastlands?
 		- Also should have a portal to that asteroid city from Spelljammer module
 		- And a Concord Jewel connecting it to the Radiant Citadel (Radiant Citadel civs: sister to the material plane, or wildspace systems in the Astral Sea???)
-	- Aldania: the Lovers' Palace, with rainbow skies kind of like the celestial event in episode 6 of Andor (perpetual solar eclipse in a sense)
+	- Aldania: the Lovers' Palace, with rainbow skies kind of like the celestial event in episode 6 of Andor (perpetual solar eclipse in a sense) 
+		- This is the core of the Axial Planes
 	- The Houses of Night must be traversed by the River of Night. (Twelve houses? Idk just do strictly as many as needed, no more, no less)
 - ~~Tabaxi~~ $\rightarrow$ [Ardlings](https://dungeonsanddragonsfan.com/ardling-one-dnd-news/), descended from Beast Lords
 	- Which means new outer plane: the Beastlands

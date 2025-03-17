@@ -8,7 +8,7 @@ tags:
 | <span style="color:rgb(125, 125, 125)">Feature</span> | <span style="color:rgb(125, 125, 125)">Merchant</span>                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Ability Scores                                        | Constitution, Intelligence, Charisma                                                       |
-| Feat                                                  | [[Lucky]]                                                                                  |
+| Feat                                                  | [[Lucky (Feat)]]                                                                                  |
 | Skill Proficiencies                                   | Animal Handling and Persuasion                                                             |
 | Tool Proficiency                                      | [[Navigator's Tools]]                                                                      |
 | Equipment                                             | *Choose A or B*: (A) Navigator's Tools, 2 Pouches, Traveler's Clothes, 22 GP; or (B) 50 GP |
