@@ -25,7 +25,7 @@ When you reach 10th level in this class, you learn another Rogue cantrip of your
 
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional spells from the Rogue list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a 7th-level Rogue, your list of prepared spells can include six Wizard spells of 1st or 2nd level, in any combination.
 
-**<span style="color:rgb(134, 93, 187)">Changing Your Prepared Spells</span>**: Whenever you gain a level in this class, you can replace one of the spells you know with another spell of your choice from the Wizard spell list. The new spell must be of a level for which you have spell slots.
+**<span style="color:rgb(134, 93, 187)">Changing Your Prepared Spells</span>**: Whenever you gain a level in this class, you can replace one of the spells you know with another spell of your choice from the [[Wizard Spellcasting|Wizard Spell List]]. The new spell must be of a level for which you have spell slots.
 
 **<span style="color:rgb(134, 93, 187)">Spellcasting Ability</span>**: Intelligence is your spellcasting ability for your Arcane Trickster spells.
 

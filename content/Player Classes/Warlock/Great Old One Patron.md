@@ -45,6 +45,6 @@ Your thoughts can’t be read by telepathy or other means unless you allow it. Y
 
 #### <span style="color:rgb(203, 123, 55)">Level 14: Create Thrall</span>
 
-Your patron grants you the ability to manifest a part of itself. You always have the [[Summon Aberration]] spell prepared. When you cast the spell, you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
+Your patron grants you the ability to manifest a part of itself. You always have the [[Summon Aberration]] spell prepared. When you cast the spell, you can modify it so that it doesn’t require [[Concentration]]. If you do so, the spell’s duration becomes 1 minute for that casting and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your [[Hex]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.

@@ -22,7 +22,7 @@ You can weave Fey magic into a song or dance to fill others with vigor. As a Bon
 
 #### <span style="color:rgb(203, 123, 55)">Level 6: Mantle of Majesty</span>
 
-You always have the [[Command]] spell prepared. As a Bonus Action, you cast _Command_ without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your Concentration ends (as if you were concentrating on a spell). During this time, you can cast _Command_ as a Bonus Action without expending a spell slot. Any creature [[Charmed]] by you automatically fails its saving throw against the _Command_ you cast with this feature.
+You always have the [[Command]] spell prepared. As a Bonus Action, you cast _Command_ without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [[Concentration]] ends (as if you were concentrating on a spell). During this time, you can cast _Command_ as a Bonus Action without expending a spell slot. Any creature [[Charmed]] by you automatically fails its saving throw against the _Command_ you cast with this feature.
 
 Once you use this feature, you can’t use it again until you finish a Long Rest. You can also restore your use of the feature by expending a spell slot of 3rd level or higher (no action required).
 

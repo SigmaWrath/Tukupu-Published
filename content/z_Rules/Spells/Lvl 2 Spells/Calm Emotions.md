@@ -6,7 +6,7 @@ tags:
 
 | Casting Time | Range   | Components | Duration                      |
 | ------------ | ------- | ---------- | ----------------------------- |
-| Action       | 60 feet | V, S       | Concentration, up to 1 minute |
+| Action       | 60 feet | V, S       | [[Concentration]], up to 1 minute |
 
 
 Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):  

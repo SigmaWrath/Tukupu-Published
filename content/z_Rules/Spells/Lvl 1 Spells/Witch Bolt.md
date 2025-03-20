@@ -7,7 +7,7 @@ tags:
 
 | Casting Time | Range   | Components                           | Duration                      |
 | ------------ | ------- | ------------------------------------ | ----------------------------- |
-| Action       | 60 feet | V, S, M (a twig struck by lightning) | Concentration, up to 1 minute |
+| Action       | 60 feet | V, S, M (a twig struck by lightning) | [[Concentration]], up to 1 minute |
 
 
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.  

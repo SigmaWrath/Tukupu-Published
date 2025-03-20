@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Bonus Action, which you take immediately after hitting a creature with a weapon|Self|V|Concentration, up to 1 minute|
+|Bonus Action, which you take immediately after hitting a creature with a weapon|Self|V|[[Concentration]], up to 1 minute|
 
 
 As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has Advantage on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends. 

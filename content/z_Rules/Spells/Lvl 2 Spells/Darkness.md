@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|60 feet|V, M (bat fur and a piece of coal)|Concentration, up to 10 minutes|
+|Action|60 feet|V, M (bat fur and a piece of coal)|[[Concentration]], up to 10 minutes|
 
 For the duration, magical [[Darkness (Rules)|Darkness]] spreads from a point within range and fills a 15-foot-radius Sphere. [[Darkvision]] can't see through it, and nonmagical light can't illuminate it. 
 

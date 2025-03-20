@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|90 feet|V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth 400+ GP)|Concentration, up to 1 hour|
+|Action|90 feet|V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth 400+ GP)|[[Concentration]], up to 1 hour|
 
 You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the [Aberrant Spirit](https://www.aidedd.org/monster/aberrant-spirit) stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends. 
 

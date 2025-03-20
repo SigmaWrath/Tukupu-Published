@@ -10,7 +10,7 @@ draft: true
 4. Train everything - everything ever to do with train
 	1. History
 	2. Stops
-		1. Material Plane > Feywild > Ethereal Plane (Radiant Citadel) > Elemental Plane of Water > Naltor
+		1. Material Plane > Naltor (train guided by a Dreamer, everyone sleeps, but someone doesn't wake up after) > Astral Sea (>Stargrave) > Elemental Plane of Water (whirlpool, saddle point) > Feywild
 	3. How worky
 	4. Compartments
 	5. People on train
@@ -36,10 +36,7 @@ draft: true
 		3. Make an Ao article (just definitional).
 			1. Use Ao to clean up verbiage on the Far Realms page.
 	2. Make the planes Aldhani-centric
-		1. Rename Inner Planes to Proximal Planes
-		2. Delete the category of transient planes
-			1. Add Ethereal Plane to Proximal Planes
-			2. Leave Astral Plane on it's own
+		1. Create Proximal Planes page
 2. Implement integrated PH fixes <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. Species lore rebuilding???
 3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
@@ -58,9 +55,14 @@ draft: true
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Get leaflet working (or some other pinned maps)
+	1. Get leaflet working on a separate static html page
+	2. Get a link to it working, without having to reload the javascript
+	3. Wrap all of that into a custom component
 2. Rename index file with directory override
 
 ## <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
+- Orcs with a strong naval tradition!!
+	- Azrik Ocean is the one between the Khalsan and Gorano continents — azrik is the orcish word for tooth, which has to do with the jagged rocky protrusions in the azrik ocean
 - Model the outer planes as like "here are the planes that have the similar enough rules of physics to ours that we can survive". Perhaps include Arborea, probs the Abyss? (in a way more similar to Kane Chronicles [duat](https://riordan.fandom.com/wiki/Duat#The_Houses_of_the_Night) abyss), and model other stuff of Kane Chronicles. 
 	- Connected planes are part of the "partition"
 	- Between sun and stars: a plane dedicated to mathematics

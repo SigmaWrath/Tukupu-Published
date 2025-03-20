@@ -7,6 +7,6 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|Touch|V, S, M (diamond dust worth 100+ GP, which the spell consumes)|Concentration, up to 1 hour|
+|Action|Touch|V, S, M (diamond dust worth 100+ GP, which the spell consumes)|[[Concentration]], up to 1 hour|
 
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage. 

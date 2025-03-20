@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|120 feet|V, S|Concentration, up to 1 hour|
+|Action|120 feet|V, S|[[Concentration]], up to 1 hour|
 
 
 You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by [[Gust of Wind]]) disperses it. 

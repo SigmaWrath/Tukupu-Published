@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|90 feet|V, S|Concentration, up to 1 minute|
+|Action|90 feet|V, S|[[Concentration]], up to 1 minute|
 
 
 Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends. 

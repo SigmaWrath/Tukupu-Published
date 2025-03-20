@@ -6,7 +6,7 @@ tags:
   - map
   - plane
 ---
-*The Material [[Planes|Plane]] in the universe of the campaign setting.* 
+*The Material [[Planes|Plane]] in [[Ao]].* 
 
 ><span style="color:rgb(125, 125, 125)">The word Vesp means “dirt” in</span> [[Auran]]<span style="color:rgb(125, 125, 125)">, and Vesperia comes from combining that with the</span> [[Halflings|Halfling]] <span style="color:rgb(125, 125, 125)">suffix -eria which means “place of”. Vesperia etymologically means “place of dirt”.</span>
 

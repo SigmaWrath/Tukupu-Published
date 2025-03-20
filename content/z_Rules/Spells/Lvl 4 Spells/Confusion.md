@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|90 feet|V, S, M (three nut shells)|Concentration, up to 1 minute|
+|Action|90 feet|V, S, M (three nut shells)|[[Concentration]], up to 1 minute|
 
 Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below. 
 

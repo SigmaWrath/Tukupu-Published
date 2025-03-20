@@ -34,7 +34,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 - **<span style="color:rgb(134, 93, 187)">Archer</span>**: A constellation of an archer appears on you. When you activate this form and as a Bonus Action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of yourself. On a hit, the attack deals Radiant damage equal to 1d8 plus your Wisdom modifier.
 - **<span style="color:rgb(134, 93, 187)">Chalice</span>**: A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 plus your Wisdom modifier.
-- **<span style="color:rgb(134, 93, 187)">Dragon</span>**: A constellation of a wise [[Dragons|dragon]] appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain Concentration, you can treat a roll of 9 or lower on the d20 as a 10.
+- **<span style="color:rgb(134, 93, 187)">Dragon</span>**: A constellation of a wise [[Dragons|dragon]] appears on you. When you make an Intelligence or a Wisdom check or a Constitution saving throw to maintain [[Concentration]], you can treat a roll of 9 or lower on the d20 as a 10.
 
 #### <span style="color:rgb(203, 123, 55)">Level 6: Cosmic Omen</span>
 

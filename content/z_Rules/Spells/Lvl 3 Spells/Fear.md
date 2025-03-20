@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|Self|V, S, M (a white feather)|Concentration, up to 1 minute|
+|Action|Self|V, S, M (a white feather)|[[Concentration]], up to 1 minute|
 
 Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and have the [[Frightened]] condition for the duration. 
 

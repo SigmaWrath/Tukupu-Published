@@ -5,9 +5,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Soothe the hurts of the world.</span>*
 
-The Life Domain focuses on the energy that helps sustain all life in the multiverse. [[Cleric|Clerics]] who tap into this domain are masters of healing, using that life force to cure many hurts.
-
-Existence itself relies on the energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agriculture, healing, home and community. Religious orders of healing also seek the magic of this domain.
+The Life Domain focuses on the energy that helps sustain all life in the multiverse. [[Cleric|Clerics]] who tap into this domain are masters of healing, using that life force to cure many hurts. This domain is particularly associated with agriculture, healing, home and community. [[Faeaniya]] and [[Helionne]] are associated with this domain.
 
 ### Mechanical Traits
 #### <span style="color:rgb(203, 123, 55)">Level 3: Disciple of Life</span>

@@ -9,7 +9,7 @@ tags:
 
 | Casting Time | **Range** | Components                         | Duration                      |
 | ------------ | --------- | ---------------------------------- | ----------------------------- |
-| Action       | 30 feet   | V, S, M (a pinch of powdered iron) | Concentration, up to 1 minute |
+| Action       | 30 feet   | V, S, M (a pinch of powdered iron) | [[Concentration]], up to 1 minute |
 
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.  

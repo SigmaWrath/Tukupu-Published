@@ -1,4 +1,4 @@
-##### *<span style="color:rgb(203, 123, 55)">Monk Class Feat (Level 5)</span>*
+##### *<span style="color:rgb(203, 123, 55)">[[Monk]] Class Feat (Level 5)</span>*
 
 > *<span style="color:rgb(125, 125, 125)">Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Focus Point to attempt a stunning strike.</span>* 
 

@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|Self|V, S|Concentration, up to 10 minutes|
+|Action|Self|V, S|[[Concentration]], up to 10 minutes|
 
 
 For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the [[Hallow]] spell is active there and, if so, where. 

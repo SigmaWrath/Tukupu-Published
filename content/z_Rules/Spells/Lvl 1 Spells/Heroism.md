@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|Touch|V, S|Concentration, up to 1 minute|
+|Action|Touch|V, S|[[Concentration]], up to 1 minute|
 
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [[Frightened]] condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns. 

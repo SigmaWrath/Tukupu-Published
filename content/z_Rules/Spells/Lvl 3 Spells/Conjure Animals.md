@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|60 feet|V, S|Concentration, up to 10 minutes|
+|Action|60 feet|V, S|[[Concentration]], up to 10 minutes|
 
 You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds. 
 

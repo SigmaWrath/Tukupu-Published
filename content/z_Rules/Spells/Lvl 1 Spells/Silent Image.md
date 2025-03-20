@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|60 feet|V, S, M (a bit of fleece)|Concentration, up to 10 minutes|
+|Action|60 feet|V, S, M (a bit of fleece)|[[Concentration]], up to 10 minutes|
 
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects. 

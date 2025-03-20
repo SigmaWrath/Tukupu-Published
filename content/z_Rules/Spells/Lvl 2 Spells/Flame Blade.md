@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Bonus Action|Self|V, S, M (a sumac leaf)|Concentration, up to 10 minutes|
+|Bonus Action|Self|V, S, M (a sumac leaf)|[[Concentration]], up to 10 minutes|
 
 
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action. 

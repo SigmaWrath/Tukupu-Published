@@ -12,7 +12,7 @@ While active, your Rage follows the rules below.
 > 
 > **<span style="color:rgb(134, 93, 187)">Strength Advantage</span>**: You have Advantage on Strength checks and Strength saving throws.
 > 
-> **<span style="color:rgb(134, 93, 187)">No Concentration or Spells</span>**: You can't maintain Concentration, and you can't cast spells.
+> **<span style="color:rgb(134, 93, 187)">No Concentration or Spells</span>**: You can't maintain [[Concentration]], and you can't cast spells.
 > 
 > **<span style="color:rgb(134, 93, 187)">Duration</span>**: The Rage lasts until the end of your next turn, and it ends early if you don Heavy Armor or have the [[Incapacitated]] condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one or more of the following:
 > - Make an attack roll against an enemy.

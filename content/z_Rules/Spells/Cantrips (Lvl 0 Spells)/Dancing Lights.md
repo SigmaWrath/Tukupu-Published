@@ -7,7 +7,7 @@ tags:
 
 | Casting Time | Range    | Components                    | Duration                      |
 | ------------ | -------- | ----------------------------- | ----------------------------- |
-| Action       | 120 feet | V, S, M (a bit of phosphorus) | Concentration, up to 1 minute |
+| Action       | 120 feet | V, S, M (a bit of phosphorus) | [[Concentration]], up to 1 minute |
 
 
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds [[Dim Light]] in a 10-foot radius.  

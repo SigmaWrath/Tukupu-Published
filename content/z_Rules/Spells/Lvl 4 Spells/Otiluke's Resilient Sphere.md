@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|30 feet|V, S, M (a glass sphere)|Concentration, up to 1 minute|
+|Action|30 feet|V, S, M (a glass sphere)|[[Concentration]], up to 1 minute|
 
 A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration. 
 

@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|30 feet|V, S, M (a bit of bat fur)|Concentration, up to 1 hour|
+|Action|30 feet|V, S, M (a bit of bat fur)|[[Concentration]], up to 1 hour|
 
 You create an [[Invisible]], invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has [[Darkvision]] with a range of 30 feet. 
 

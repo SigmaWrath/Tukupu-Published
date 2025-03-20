@@ -53,7 +53,7 @@ On a failed save, the target is Charmed or Frightened (your choice) for 1 minute
 
 You can cast [[Summon Fey]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 
-Whenever you start casting the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [[Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting.
 
 #### <span style="color:rgb(203, 123, 55)">Level 15: Misty Wanderer</span>
 

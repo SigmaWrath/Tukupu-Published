@@ -6,7 +6,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|Self|S|Concentration, up to 1 hour|
+|Action|Self|S|[[Concentration]], up to 1 hour|
 
 You gain the [[Invisible]] condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell. 
 

@@ -1,4 +1,4 @@
-##### *<span style="color:rgb(203, 123, 55)">Monk Class Feat (Level 3)</span>*
+##### *<span style="color:rgb(203, 123, 55)">[[Monk]] Class Feat (Level 3)</span>*
 
 > *<span style="color:rgb(125, 125, 125)">When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.</span>*
 

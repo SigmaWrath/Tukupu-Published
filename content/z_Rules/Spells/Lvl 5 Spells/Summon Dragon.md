@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|60 feet|V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)|Concentration, up to 1 hour|
+|Action|60 feet|V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)|[[Concentration]], up to 1 hour|
 
 You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the [Draconic Spirit stat block](https://www.aidedd.org/monster/draconic-spirit). The creature disappears when it drops to 0 Hit Points or when the spell ends. 
 

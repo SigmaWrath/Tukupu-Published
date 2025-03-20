@@ -1,4 +1,4 @@
-##### *<span style="color:rgb(203, 123, 55)">Monk Class Feat (Level 1)</span>*
+##### *<span style="color:rgb(203, 123, 55)">[[Monk]] Class Feat (Level 1)</span>*
 
 > *<span style="color:rgb(125, 125, 125)">Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk Weapons.</span>*
 

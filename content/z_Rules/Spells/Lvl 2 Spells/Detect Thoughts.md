@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action|Self|V, S, M (a copper piece)|Concentration, up to 1 minute|
+|Action|Self|V, S, M (a copper piece)|[[Concentration]], up to 1 minute|
 
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns. 
