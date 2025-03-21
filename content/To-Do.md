@@ -2,15 +2,25 @@
 draft: true
 ---
 ## Session Prep
+- The train takes off (and comes in/materializes in) on a mountaintop railway
+- Compartments from the outside look like black glass covered by flowering plants (orange?) and vines. 
+	- The player with the highest passive perception notices very thin, glowing blue plant tendrils snaking, hiding in these vines
+	- There are 4 compartments plus the engine cars, and the plants on the exterior of each one correspond to the season. 
+		- Spring has budding flowers and plants, winter has crystalline, icy ones, etc. 
+		- The sequence goes engine at front of train, followed by Winter, Spring, Summer, and lastly Autumn at the back
+- Once inside, they open up into sprawling natural environments. They are bounded on left and right (where the sides of the car/entry doors would be) by a misty abyss (the Ethereal Plane?)
+	- The Spring Cabin contains a bright blue sky, a technicolor forest, and a large cliff (400 feet tall) with a waterfall, that leads up to a river. At the top of the cliff, the river quickly leads into a cave, and traversing through the cave leads into the Winter compartment. 
+- **The core of the mystery**: A small group of Pleasantries recently stumbled upon the Fey Rail, and realized they could use it to go to Naltor, attaining eternal sustenance. They stow away, and Charm the staff while quietly stealing away depressed passengers whom they put to sleep while feeding on their dreams. The difficulty happens when they try to put an Elf to sleep, and fail because Fey can't be magically put to sleep. The Elf gets aggressive and attacks, and the Pleasantries defend themselves, throwing him off the edge of the cliff in the Spring cabin. He dies screaming, alerting the party. 
+## Session Prep To-do
 1. Text messages:
 	1. Ask for character sheets
 	2. Send out safety tools
-2. All obsidian items listed below
+2. All Obsidian items listed below
 3. Feywild page
 4. Train everything - everything ever to do with train
 	1. History
 	2. Stops
-		1. Material Plane > Naltor (train guided by a Dreamer, everyone sleeps, but someone doesn't wake up after) > Astral Sea (>Stargrave) > Elemental Plane of Water (whirlpool, saddle point) > Feywild
+		1. Material Plane > Feywild (Dream Queen's sister trynna commandeer to take it to Naltor)
 	3. How worky
 	4. Compartments
 	5. People on train
@@ -70,6 +80,7 @@ draft: true
 			- Maybe it's mechanical, or maybe... it's natural. Turbulent flow models computational effects???? Maybe a mixture of both. I have no fucking idea... let's cook this some more later. 
 		2. Level two is the visualization of what that computation is carrying out
 	- Perhaps the Court of Stars should be its own outer plane (Queen ~~Morwel~~ Leora)
+		- {Stars are about *connection* (spacetimemattering, intra-action, Lagrangian, love?)}
 		- It is directly connected to the Feywild
 		- Should have a portal to the Beastlands?
 		- Also should have a portal to that asteroid city from Spelljammer module

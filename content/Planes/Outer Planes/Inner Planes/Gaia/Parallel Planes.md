@@ -12,6 +12,6 @@ The parallel planes are:
 - The [[Feywild]]
 - The [[Shadowfell]]
 
-Worth mentioning are [[Kami]], who have forms in level of [[Gaia]]. 
+Worth mentioning are [[Kami]], who have forms in each level of [[Gaia]]. 
 
  

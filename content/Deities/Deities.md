@@ -7,6 +7,7 @@ aliases:
   - true deities
   - True deities
   - True deity
+  - deities
 ---
 > <span style="color:rgb(125, 125, 125)">*Deities are immortal beings of the highest order of power in the realms.*</span>
 

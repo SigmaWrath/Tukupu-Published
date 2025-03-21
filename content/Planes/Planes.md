@@ -6,18 +6,32 @@ aliases:
 ---
 > <span style="color:rgb(125, 125, 125)">*A dimension within the campaign setting.*</span> 
 
-Consider the set of planes in the multiverse that have continuous connection either directly or indirectly to the [[Vesperia|Material Plane]]. These planes comprise a planar network or nominally "accessible" universe. Collectively, this network is known as [[Ao]]. 
+A plane is a dimension that is unified in the rules of physics that govern it. Some planes have multiple <span style="color:rgb(79, 151, 125)">**layers**</span>. Layers are planes in their own right that follow additional special properties— they are different aspects of the same underlying reality of the plane they are a layer of. For example, the [[Feywild]], [[Vesperia]], and the [[Shadowfell]] all represent different aspects of the reality that is [[Gaia]].  
 
-The following three broad categories of planes in Ao are useful for laypersons' discussion:
-- [[Proximal Planes]]
-- [[Outer Planes]]
+The planes in [[index|Tukupu]] can very broadly be divided into two categories: [[Ao]] and the [[Far Realms]].
+
+#### <span style="color:rgb(203, 123, 55)">Planar Groupings within Ao</span>
+
+*<span style="color:rgb(125, 125, 125)">(See main article: [[Ao]])</span>*
+
+Ao consists of the following planes:
 - [[Axial Planes]]
+- [[Astral Plane]]
+- [[Outer Planes]]
 
-The categories presented above are entirely distinct, and cover all planes except the [[Astral Plane]].  
+These other semantic categorizations have use in scholarly discussion:
+ - [[Transitive Planes]]
+ - [[Inner Planes]]
+ - [[Proximal Planes]]
+ - [[Parallel Planes]]
 
-The following semantic categorizations have use in scholarly discussion in the context of the [[Vesperia|Material Plane]]:
-- [[Transitive Planes]]
-- [[Inner Planes]]
-- [[Parallel Planes]]
+#### <span style="color:rgb(203, 123, 55)">Planar Groupings of the Far Realms</span>
+*<span style="color:rgb(125, 125, 125)">(See main article: [[Far Realms]])</span>*
 
-Outside of [[Ao]] are the [[Far Realms]], which are <span style="color:rgb(125, 125, 125)">(almost)</span> entirely inaccessible by all except for [[Deities]]. 
+The Far Realms can be broken down into:
+- [[Bizarre Realms]]
+- [[Unconnected Realms]]
+
+
+
+

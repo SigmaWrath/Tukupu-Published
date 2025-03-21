@@ -54,7 +54,7 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 #### <span style="color:rgb(203, 123, 55)">Level 3: Mage Hand Legerdemain</span>
 
-When you cast [[Mage Hand]], you can make the spectral hand [[invisible]]. You can control the hand as a Bonus Action, instead of an action, and through it, you can use [[Thieves’ Tools]] and make Dexterity (Sleight of Hand) checks.
+When you cast [[Mage Hand]], you can make the spectral hand [[Invisible]]. You can control the hand as a Bonus Action, instead of an action, and through it, you can use [[Thieves’ Tools]] and make Dexterity (Sleight of Hand) checks.
 
 #### <span style="color:rgb(203, 123, 55)">Level 9: Magical Ambush</span>
 
