@@ -1,7 +1,7 @@
 ---
 tags:
   - prep
-draft: false
+draft: true
 ---
 ### Premise
 A marvel of arcane engineering, the Fey Line is an inter-dimensional "train" that takes passengers on a 36-hour journey from [[Vesperia]] (the Material Plane) to the [[Feywild]], to the realm of vibrant nature unrestrained, of chaos and emotion and magic.
@@ -75,7 +75,7 @@ If the players ask about calling the staff to help:
 
 > [!info] Staff Necklaces
 > 
-> The staff all wear necklaces with clay beads on them representing the cars of the train (the engine and each of the four carriages). They can touch a bead and close their eyes to teleport to that cabin. If the players manage to "procure" one of these necklaces, they will be able to teleport only to any place they've already visited, and they'll see a bird-eye view representation of the cabin (not real-time).
+> The staff all wear necklaces with clay beads on them representing the cars of the train (the engine and each of the four carriages). They can touch a bead and close their eyes to teleport to that cabin. If the players manage to "procure" one of these necklaces, they will be able to teleport only to any place they've already visited, and they'll see a bird-eye view representation of the cabin (in real-time).
 
 
 | <span style="color:rgb(125, 125, 125)">Staff Members</span> | Leader                                                           | Deputy 1                    | Deputy 2                             |
@@ -132,9 +132,13 @@ If the players open the chest (which requires no lockpicking), they find another
 > 2. If they already have a staff member's necklace, then the chest gives them a staff member's outfit. 
 > 3. If for some deity-forsaken reason they already have a staff member's outfit, the chest a Ring of Recursion (which provides a +10 to ability checks to make another Ring of Recursion).
 
-When players hop back onto the boat and row toward the Winter Carriage:
+The players should then hop back onto the boat and row toward the Winter Carriage.
 
-> [!quote] Sflkj
+### <span style="color:rgb(203, 123, 55)">Act 2</span>
+
+#### <span style="color:rgb(134, 93, 187)">The Winter Carriage</span>
+
+> [!quote] You row on, and the temperature plummets. You can see your own icy breath as you exhale. Then, the cave opens up ahead to a snow white sky. You see a vast landscape of mountainous glaciers, all bordering this icy river which flows through the center of all of it. Welcome, to the Winter Carriage.
 
 
 
