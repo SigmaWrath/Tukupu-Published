@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|Action or Ritual|30 feet|V, S, M (a piece of cork)|1 hour|
+|Action or [[Ritual]]|30 feet|V, S, M (a piece of cork)|1 hour|
 
 This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration. 
 
