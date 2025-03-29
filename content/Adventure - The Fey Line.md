@@ -1,7 +1,7 @@
 ---
 tags:
   - prep
-draft: true
+draft: false
 ---
 ### Premise
 A marvel of arcane engineering, the Fey Line is an inter-dimensional "train" that takes passengers on a 36-hour journey from [[Vesperia]] (the Material Plane) to the [[Feywild]], to the realm of vibrant nature unrestrained, of chaos and emotion and magic.
