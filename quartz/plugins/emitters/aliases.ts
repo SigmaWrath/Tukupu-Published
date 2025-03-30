@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { resolveRelative, simplifySlug } from "../../util/path"
+=======
+import { isRelativeURL, resolveRelative, simplifySlug } from "../../util/path"
+>>>>>>> parent of 23b691f (fix: coerce fullslug)
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -7,8 +11,17 @@ import { VFile } from "vfile"
 async function* processFile(ctx: BuildCtx, file: VFile) {
   const ogSlug = simplifySlug(file.data.slug!)
 
+<<<<<<< HEAD
   for (const slug of file.data.aliases ?? []) {
     const redirUrl = resolveRelative(slug, file.data.slug!)
+=======
+  for (const aliasTarget of file.data.aliases ?? []) {
+    const aliasTargetSlug = isRelativeURL(aliasTarget)
+      ? path.normalize(path.join(ogSlug, "..", aliasTarget))
+      : aliasTarget
+
+    const redirUrl = resolveRelative(aliasTargetSlug, ogSlug)
+>>>>>>> parent of 23b691f (fix: coerce fullslug)
     yield write({
       ctx,
       content: `
