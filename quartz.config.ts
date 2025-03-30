@@ -19,7 +19,6 @@ const config: QuartzConfig = {
     baseUrl: "sigmawrath.github.io/Tukupu-Published",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
