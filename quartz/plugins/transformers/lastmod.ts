@@ -35,18 +35,6 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
       return [
         () => {
           let repo: Repository | undefined = undefined
-          let repositoryWorkdir: string
-          if (opts.priority.includes("git")) {
-            try {
-              repo = Repository.discover(ctx.argv.directory)
-              repositoryWorkdir = repo.workdir() ?? ""
-            } catch (e) {
-              console.log(
-                chalk.yellow(`\nWarning: couldn't find git repository for ${ctx.argv.directory}`),
-              )
-            }
-          }
-
           return async (_tree, file) => {
             let created: MaybeDate = undefined
             let modified: MaybeDate = undefined
