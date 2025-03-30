@@ -2,50 +2,66 @@
 draft: true
 ---
 ## Session Prep
-- GIVE IZ HIS GUIDE BACKGROUND SHIT
 - The train takes off (and comes in/materializes in) on a mountaintop railway
+- Compartments from the outside look like black glass covered by flowering plants (orange?) and vines. 
+	- The player with the highest passive perception notices very thin, glowing blue plant tendrils snaking, hiding in these vines
+	- There are 4 compartments plus the engine cars, and the plants on the exterior of each one correspond to the season. 
+		- Spring has budding flowers and plants, winter has crystalline, icy ones, etc. 
+		- The sequence goes engine at front of train, followed by Winter, Spring, Summer, and lastly Autumn at the back
 - Once inside, they open up into sprawling natural environments. They are bounded on left and right (where the sides of the car/entry doors would be) by a misty abyss (the Ethereal Plane?)
-	- The Spring Carriage contains a bright blue sky, a technicolor forest, and a large cliff (400 feet tall) with a waterfall, that leads up to a river. At the top of the cliff, the river quickly leads into a cave, and traversing through the cave leads into the Winter compartment. 
-		- In the forest in the spring cabin, the players might encounter:
-			- A large dinosaur that they have to evade, hide from
-		- Yutyrannus in the Winter Carriage 
+	- The Spring Cabin contains a bright blue sky, a technicolor forest, and a large cliff (400 feet tall) with a waterfall, that leads up to a river. At the top of the cliff, the river quickly leads into a cave, and traversing through the cave leads into the Winter compartment. 
 - **The core of the mystery**: A small group of Pleasantries recently stumbled upon the Fey Rail, and realized they could use it to go to Naltor, attaining eternal sustenance. They stow away, and Charm the staff while quietly stealing away depressed passengers whom they put to sleep while feeding on their dreams. The difficulty happens when they try to put an Elf to sleep, and fail because Fey can't be magically put to sleep. The Elf gets aggressive and attacks, and the Pleasantries defend themselves, throwing him off the edge of the cliff in the Spring cabin. He dies screaming, alerting the party. 
-- Printing press out of magenta ink — correct brand?, firmware
-	- Chest weasel
-	- Mending spell
-	- The printing press is an opp?? 
-	- Print sheet music during the final boss fight
-	- Priya the Printing Press
-- Mead is a tool for the Pleasantries??
-	- Summer blue thread
-	- Dreams coagulate around their conceptual essence
 ## Session Prep To-do
 1. Text messages:
 	1. Ask for character sheets
 	2. Send out safety tools
-		1. Potential triggers: murder, something that might be vaguely reminiscent of suicidal ideation, insectophobia
 2. All Obsidian items listed below
 3. Feywild page
-4. Note: Players outlined some BS they wanted. INCLUDE
-	1. Printing press
-	2. Mead brewing ability aka a tavern
-	3. Gimmicks and hijinks
-	4. Mysteryyyyyy
-	5. Unique flora (and fauna)
+4. Train everything - everything ever to do with train
+	1. History
+	2. Stops
+		1. Material Plane > Feywild (Dream Queen's sister trynna commandeer to take it to Naltor)
+	3. How worky
+	4. Compartments
+	5. People on train
+		1. Plants on train
+		2. Animals on train
+		3. Biomes on train?
+	6. Map of train
+5. Build (3) in coordination with mystery
+	1. Geopolitics is a good place to start with adventure hooks and motivations
+	2. What do people want? And when their wants conflict, what happens as a result?
+	3. Note: Players outlined some BS they wanted. INCLUDE
+		1. Printing press
+		2. Mead brewing ability aka a tavern
+		3. Gimmicks and hijinks
+		4. Mysteryyyyyy
+		5. Unique flora (and fauna)
 ## <span style="color:rgb(134, 93, 187)">Obsidian</span>
-1. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+1. Planar overhaul <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+	1. Rename core planes to Gaia 
+		1. Cover every instance
+		2. Make Gaia article separate from Parallel Planes 
+			1. Provide overview of topography syncing, as well as the layers.
+		3. Make an Ao article (just definitional).
+			1. Use Ao to clean up verbiage on the Far Realms page.
+	2. Make the planes Aldhani-centric
+		1. Create Proximal Planes page
+2. Implement integrated PH fixes <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+	1. Species lore rebuilding???
+3. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. All classes 
 		1. Standardize equipment formatting and GP cost
 		2. Ideally fill in tools? From tool proficiency section of each class. (Also can find tools in backgrounds. Check unlinked mentions for each tool we end up creating)
-3.  Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
-4. Languages page, don't write articles, just list or write very brief articles <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+4. Languages page, don't write articles, just list or write very brief articles
 	1. Jupi is spoken in the Khalsan empire
-5. Inner planes maybe should have an additional collective name, a more accurate one, to refer to the collective construction of them... ooh, Terra!
-6. Four subclasses per class... try to get most done tho? Dw if not
-7. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
-8. Change the names of the renowned wizards who have spells named after them.
-9. Mortal manifestations of deities (appearances)??
-10. Solars and lunars - servants of deities
+5. Four subclasses per class... try to get most done tho? Dw if not
+6. Write an essay page detailing how the popularization of the gunslinging cowgirl archetype was integrated into the Gorano national myth of an intuitive, adaptable, rugged people
+7. Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+8. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
+9. Change the names of the renowned wizards who have spells named after them.
+10. Mortal manifestations of deities (appearances)??
+11. Solars and lunars - servants of deities
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Get leaflet working (or some other pinned maps)

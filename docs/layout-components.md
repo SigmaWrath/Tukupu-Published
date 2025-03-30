@@ -60,6 +60,8 @@ The `DesktopOnly` component is the counterpart to `MobileOnly`. It makes its chi
 ```typescript
 Component.DesktopOnly(Component.TableOfContents())
 ```
+<<<<<<< HEAD
+=======
 
 ## `ConditionalRender` Component
 
@@ -81,13 +83,5 @@ Component.ConditionalRender({
 })
 ```
 
-The example above would only render the Search component when the page is not in fullpage mode.
-
-```typescript
-Component.ConditionalRender({
-  component: Component.Breadcrumbs(),
-  condition: (page) => page.fileData.slug !== "index",
-})
-```
-
-The example above would hide breadcrumbs on the root `index.md` page.
+This example would only render the Search component when the page is not in fullpage mode.
+>>>>>>> parent of b397dae (Updating breadcrumbs docs on ConditionalRender (#1871))

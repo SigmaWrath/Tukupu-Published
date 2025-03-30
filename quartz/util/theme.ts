@@ -25,7 +25,6 @@ export type FontSpecification =
 
 export interface Theme {
   typography: {
-    title?: FontSpecification
     header: FontSpecification
     body: FontSpecification
     code: FontSpecification
@@ -49,10 +48,7 @@ export function getFontSpecificationName(spec: FontSpecification): string {
   return spec.name
 }
 
-function formatFontSpecification(
-  type: "title" | "header" | "body" | "code",
-  spec: FontSpecification,
-) {
+function formatFontSpecification(type: "header" | "body" | "code", spec: FontSpecification) {
   if (typeof spec === "string") {
     spec = { name: spec }
   }
@@ -86,19 +82,12 @@ function formatFontSpecification(
 }
 
 export function googleFontHref(theme: Theme) {
-  const { header, body, code } = theme.typography
+  const { code, header, body } = theme.typography
   const headerFont = formatFontSpecification("header", header)
   const bodyFont = formatFontSpecification("body", body)
   const codeFont = formatFontSpecification("code", code)
 
-  return `https://fonts.googleapis.com/css2?family=${headerFont}&family=${bodyFont}&family=${codeFont}&display=swap`
-}
-
-export function googleFontSubsetHref(theme: Theme, text: string) {
-  const title = theme.typography.title || theme.typography.header
-  const titleFont = formatFontSpecification("title", title)
-
-  return `https://fonts.googleapis.com/css2?family=${titleFont}&text=${encodeURIComponent(text)}&display=swap`
+  return `https://fonts.googleapis.com/css2?family=${bodyFont}&family=${headerFont}&family=${codeFont}&display=swap`
 }
 
 export interface GoogleFontFile {
@@ -146,7 +135,6 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
-  --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${DEFAULT_SANS_SERIF};
   --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${getFontSpecificationName(theme.typography.body)}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${getFontSpecificationName(theme.typography.code)}", ${DEFAULT_MONO};

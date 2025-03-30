@@ -7,7 +7,7 @@ tags:
 
 |Casting Time|Range|Components|Duration|
 |---|---|---|---|
-|1 minute or [[Ritual]]|Self|V, S, M (a crystal bead)|8 hours|
+|1 minute or Ritual|Self|V, S, M (a crystal bead)|8 hours|
 
 A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area. 
 

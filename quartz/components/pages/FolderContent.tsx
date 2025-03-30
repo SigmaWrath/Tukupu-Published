@@ -8,8 +8,7 @@ import { i18n } from "../../i18n"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
-import { trieFromAllFiles } from "../../util/ctx"
-
+import { FileTrieNode } from "../../util/fileTrie"
 interface FolderContentOptions {
   /**
    * Whether to display number of folders
@@ -26,11 +25,31 @@ const defaultOptions: FolderContentOptions = {
 
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
+  let trie: FileTrieNode<
+    QuartzPluginData & {
+      slug: string
+      title: string
+      filePath: string
+    }
+  >
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
 
-    const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
+    if (!trie) {
+      trie = new FileTrieNode([])
+      allFiles.forEach((file) => {
+        if (file.frontmatter) {
+          trie.add({
+            ...file,
+            slug: file.slug!,
+            title: file.frontmatter.title,
+            filePath: file.filePath!,
+          })
+        }
+      })
+    }
+
     const folder = trie.findNode(fileData.slug!.split("/"))
     if (!folder) {
       return null
@@ -52,7 +71,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
                 if (child.data?.dates) {
                   // compare all dates and assign to maybeDates if its more recent or its not set
                   if (!maybeDates) {
-                    maybeDates = { ...child.data.dates }
+                    maybeDates = child.data.dates
                   } else {
                     if (child.data.dates.created > maybeDates.created) {
                       maybeDates.created = child.data.dates.created
