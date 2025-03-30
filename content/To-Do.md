@@ -13,8 +13,9 @@ draft: true
 - Printing press out of magenta ink — correct brand?, firmware
 	- Chest weasel
 	- Mending spell
-	- The printing press is an opp
+	- The printing press is an opp?? 
 	- Print sheet music during the final boss fight
+	- Priya the Printing Press
 - Mead is a tool for the Pleasantries??
 	- Summer blue thread
 	- Dreams coagulate around their conceptual essence
@@ -25,26 +26,12 @@ draft: true
 		1. Potential triggers: murder, something that might be vaguely reminiscent of suicidal ideation, insectophobia
 2. All Obsidian items listed below
 3. Feywild page
-4. Train everything - everything ever to do with train
-	1. History
-	2. Stops
-		1. Material Plane > Feywild (Dream Queen's sister trynna commandeer to take it to Naltor)
-	3. How worky
-	4. Compartments
-	5. People on train
-		1. Plants on train
-		2. Animals on train
-		3. Biomes on train?
-	6. Map of train
-5. Build (3) in coordination with mystery
-	1. Geopolitics is a good place to start with adventure hooks and motivations
-	2. What do people want? And when their wants conflict, what happens as a result?
-	3. Note: Players outlined some BS they wanted. INCLUDE
-		1. Printing press
-		2. Mead brewing ability aka a tavern
-		3. Gimmicks and hijinks
-		4. Mysteryyyyyy
-		5. Unique flora (and fauna)
+4. Note: Players outlined some BS they wanted. INCLUDE
+	1. Printing press
+	2. Mead brewing ability aka a tavern
+	3. Gimmicks and hijinks
+	4. Mysteryyyyyy
+	5. Unique flora (and fauna)
 ## <span style="color:rgb(134, 93, 187)">Obsidian</span>
 1. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. All classes 

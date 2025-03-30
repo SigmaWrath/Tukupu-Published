@@ -34,7 +34,7 @@ Have the players intro their characters: name, pronouns, description of appearan
 
 Have everybody make a Perception check (or just use Passive Perception). Upon passing DC 12, tell them that they see "faint, glowing blue plant-tendrils mixed amongst the vines wrapping around the carriage."
 
-> [!quote] When you stepped into the Spring Carriage, the sight was astounding. The sky was bright blue. A vast, technicolor forest spanned most of the landscape, and to the right of it you see a river, created by a roaring waterfall that flows down an 800-foot tall cliff. The river extends to the left of the forest as well, presumably flowing through it, and opens up into a lake. Small camps, with firepits, wooden tables and chairs, etc., dot the landscape—a few around the lake, next to the river... On the far side of all of this, a wall of mist bounds the carriage, and when you turn to look at the portal you came through, indeed you find a plane of white mist. {Recap, and then: This bounds the carriage—it is, after all, an enclosed space, even if it's extradimensional.} 
+> [!quote] When you stepped into the Spring Carriage, the sight was astounding. The sky was bright blue. A vast, technicolor forest spanned most of the landscape, and to the right of it you see a river, created by a roaring waterfall that flows down an 800-foot tall cliff. The river extends to the left of the forest as well, presumably flowing through it, and opens up into a lake. A couple of Giant Eagles soar overhead. Small camps, with firepits, wooden tables and chairs, etc., dot the landscape—a few around the lake, next to the river... On the far side of all of this, a wall of mist bounds the carriage, and when you turn to look at the portal you came through, indeed you find a plane of white mist. {Recap, and then: This bounds the carriage—it is, after all, an enclosed space, even if it's extradimensional.} 
 
 > [!quote] Staff members guided you to a camp by the riverbank on the side of the forest with the waterfall, and brought you food as you requested. You talked and feasted, passing a couple of hours... and *that*, is where we find you now.
 
@@ -48,6 +48,10 @@ Have everyone share why they're headed to the Feywild. What are you hoping to fi
 > 
 > With over 30 hours still left on the journey, catching them may be a matter of survival.
 
+> [!tip] Player-specific note
+> 
+> A dhampir might thirst for sustenance upon seeing the body.
+
 Upon investigating the body, the players find: 
 - They wear very fine clothes
 - They're an [[Elves|elf]] (from the pointy ears)
@@ -57,7 +61,7 @@ Upon investigating the body, the players find:
 - They have a tattoo on their neck $\rightarrow$ History DC 10, this signifies them as a member of the [[Mikola Clan]], an agrarian community near the Waun Empire
 	- Mikolans are known for being very strict about they sanctity of their minds, and are highly disciplined and place great emphasis on being rational. They also don't do drugs or ***drink alcohol***, among other things
 - Perception DC 18 $\rightarrow$ they have the scent of mead on their shirt <span style="color:rgb(125, 125, 125)">{this was spilled when Wu Ying tried to force feed him}</span>
-- Ticket for the Fey Line: `Name: Kamaeka; Species: Elf; Date: 2568.0.8.3 PRC; Time: Sunrise; Carriage: Winter; Camp: Bearclaw Glacier`
+- Ticket for the Fey Line: `Name: Kamaeka Gilhanan; Species: Elf; Date: 2568.0.8.3 PRC; Time: Sunrise; Carriage: Winter; Camp: Bearclaw Glacier`
 
 When they're done investigating the body, hint to the players that the next place they should investigate is the top of the cliff.
 
@@ -75,7 +79,7 @@ If the players ask about calling the staff to help:
 
 > [!info] Staff Necklaces
 > 
-> The staff all wear necklaces with clay beads on them representing the cars of the train (the engine and each of the four carriages). They can touch a bead and close their eyes to teleport to that cabin. If the players manage to "procure" one of these necklaces, they will be able to teleport only to any place they've already visited, and they'll see a bird-eye view representation of the cabin (in real-time).
+> The staff all wear necklaces with clay beads on them representing the cars of the train (the engine and each of the four carriages). They can touch a bead and close their eyes to teleport to that cabin. If the players manage to "procure" one of these necklaces, they will be able to teleport only to any place they've already visited, and they'll see a bird-eye view representation of the cabin (not real-time).
 
 
 | <span style="color:rgb(125, 125, 125)">Staff Members</span> | Leader                                                           | Deputy 1                    | Deputy 2                             |
@@ -128,9 +132,9 @@ If the players open the chest (which requires no lockpicking), they find another
 
 > [!example] What's in the Chest?
 > 
-> 1. If the players didn't steal a staff member's necklace earlier, the chest gives them a staff member's necklace (which has properties as detailed in the "<span style="color:rgb(134, 93, 187)">Calling Staff</span>" section). 
-> 2. If they already have a staff member's necklace, then the chest gives them a staff member's outfit. 
-> 3. If for some deity-forsaken reason they already have a staff member's outfit, the chest a Ring of Recursion (which provides a +10 to ability checks to make another Ring of Recursion).
+> 1. If the players didn't steal a staff member's necklace earlier, the chest gives them a staff member's necklace (which has properties as detailed in the "<span style="color:rgb(134, 93, 187)">Calling Staff</span>" section).
+> 2. If they already have a staff member's necklace, then the chest gives them a staff member's outfit.
+> 3. If for some deity-forsaken reason they already have a staff member's outfit, the chest produces a Ring of Recursion (which provides a +10 to ability checks to make another Ring of Recursion).
 
 The players should then hop back onto the boat and row toward the Winter Carriage.
 
@@ -138,9 +142,86 @@ The players should then hop back onto the boat and row toward the Winter Carriag
 
 #### <span style="color:rgb(134, 93, 187)">The Winter Carriage</span>
 
-> [!quote] You row on, and the temperature plummets. You can see your own icy breath as you exhale. Then, the cave opens up ahead to a snow white sky. You see a vast landscape of mountainous glaciers, all bordering this icy river which flows through the center of all of it. Welcome, to the Winter Carriage.
+> [!quote] You row on, and the temperature plummets. You can see your own icy breath as you exhale. Then, the cave opens up ahead to a snow white sky. You see a vast landscape of mountainous glaciers, all bordering this icy river which flows through the center of all of it. Camps dot the landscape, creatures sitting around firepits in the distance, and the wind carries faint echoes of laughter and conversation. Welcome, to the Winter Carriage.
+ 
+ At this point, players can either:
+ 1. Attempt to pursue Wu Ying
+ 2. Noticing the wooden signs pointing to each of the glaciers, they might go to the `Bearclaw Glacier`, which is where Kamaeka is from. It's very close by, maybe just a three-minute walk.
 
+##### <span style="color:rgb(193, 145, 56)">Bearclaw Glacier Camp</span>
 
+| <span style="color:rgb(125, 125, 125)">Campers</span> | Leader               | Camper 1                              | Camper 2                     |
+| ----------------------------------------------------- | -------------------- | ------------------------------------- | ---------------------------- |
+| Name                                                  | Ilsevel Valfaren     | Keiran Keymys                         | Ansh Ellikan                 |
+| Pronouns                                              | she/her              | he/him                                | he/him                       |
+| Species                                               | Elf (High)           | Elf (High)                            | Goliath                      |
+| Skin Color                                            | Dark brown           | Beige                                 | Pale blue                    |
+| Hair Color                                            | Brownish-red         | Dark blue                             | Jet black                    |
+| Hair Style                                            | Long center braid    | Short, curly                          | Bald, with beard             |
+| Outfit stuff                                          | Dark red satin dress | Dark blue leathers and khaki trousers | Thick furs, w/ meteor hammer |
+<span style="color:rgb(192, 82, 75)">If the players reach the Bearclaw Glacier Camp before meeting Keiran and Ansh</span>, they find Ilsevel staring intensely into the fire. She is startled by their approach, and will be wary of them at first. When the players reveal that something happened to Kamaeka and that they're looking for signs of what happened to him, Ilsevel will say "No, no, Kamaeka too?". 
 
+Upon questioning, Ilsevel will explain that she boarded the Fey Line because her girlfriend Jasmine (a human) was supposed to come back from the Feywild yesterday. Jasmine never returned home last night, so Ilsevel brought her friends aboard to look for Jasmine... but if Kamaeka's dead... "Oh Selashah, you don't think Jasmine...?"
 
+At that point, Keiran and Ansh will arrive, calling out Ilsevel's name and worrying for her. They may think the party poses a danger to her, but can easily be talked down. They'll explain that they're worried because they talked to the other camps, who said that those who've gone off on their own have disappeared. At this point, Ilsevel might fill them in that Kamaeka is dead. Upon hearing that, Keiran will start dissociating, go quiet, and bury himself and Ansh's arms, who will reassure him. 
+
+<span style="color:rgb(192, 82, 75)">If the party reaches the Bearclaw Glacier Camp after meeting Keiran and Ansh</span>, if Keiran knows about Kamaeka's death, he'll be dissociating in Ansh's arms while Ilsevel paces around wringing her hands out and muttering aloud. <span style="color:rgb(186, 74, 120)">If Keiran doesn't know that Kamaeka is dead, then the campers will have set off toward the Spring Cabin to try and find Kamaeka (they can be easily caught up to, before they get in the rowboat—the party will easily spot their tracks from Bearclaw).</span> 
+
+Ilsevel will ask what the party's progress on tracking Kamaeka's killer is. She'll also want to know where Kamaeka's body is. Her goal is ultimately to figure out what happened to Jasmine.
+
+<span style="color:rgb(79, 151, 125)">Regardless of the red stuff: Ilsevel will encourage the party to continue pursuing Wu Ying</span>, saying that they need to figure out what happened to Kamaeka, and tell the party to be sure to stick together. She might mention that Kamaeka's been sad lately. She'll say that the party needs to follow this to the end, and to summon her when they get there. She'll ask for the arm of the most human-like party members, and draw a rune in black on the inside of their wrist. If that party member taps the rune and says "Ilsevel", she'll come to their aid. 
+
+> [!note] Ilsevel and Jasmine's Summoning Rune
+> 
+> A wizard can get the 3rd-level spell *Ilsevel and Jasmine's Summoning Rune* with the functionality above if the party successfully rescues Jasmine from the Dream Queen's Sister, Oomi. In this case, Jasmine will ask for a party member's spellbook, and write down arcane notes on how to do it in the book.
+##### <span style="color:rgb(193, 145, 56)">Pursuing Wu Ying</span> 
+
+If the players decide to start by pursuing Wu Ying, they can get off the boat and look around. They'll find several sets of footprints on the ground, but a DC 12 Investigation check will show that there are fresh tracks belonging to a human, leading upstream along the right side of the riverbank. A DC 18 Perception check will also reveal the trail with a small spatter of blood.
+
+> [!quote] After following the tracks for a bit, you find yourself approaching a frozen lake that sits in the valley between a few large glaciers. Small evergreen shrubbery dots the landscape in little bunches, as if they were huddling together for warmth. And by the riverbank leading into the lake, you see two *otters*, as tall as humans and with pale-blue fur, covered in a rime of ice crystals. They're placidly holding hands while looking upon the lake, their backs facing you. They haven't seen you yet... would you like to remain unseen?
+
+Every player must pass a DC 15 Stealth check to remain unseen. If they remain unseen, they can choose to take the very long way around the lake, but wouldn't be able to follow the tracks of Wu Ying. They can assume he's headed for the Autumn Carriage, and if they do they'll encounter him initially near the library (as detailed in "<span style="color:rgb(193, 145, 56)">The Library</span>" section). If they fail, they begin "<span style="color:rgb(193, 145, 56)">Combat with the Cryostelids</span>".
+
+##### <span style="color:rgb(193, 145, 56)">Combat with the Cryostelids</span>
+
+> [!quote] The snap their heads towards you, their glowing blue eyes boring into you. Then, faster than should be possible, they bound towards you with claws out, going for blood.
+
+![[Oneiric Cryostelid.png]]
+
+> [!question] Falling asleep
+> 
+> If any of the players are magically put to sleep during the fight, they dream of perfect lives and their own personal heaven. They can be woken up with any non-Cold damage over 3 HP, or by spending an Action, Bonus Action, or Movement.
+
+> [!failure] Killing the Cryostelids
+> 
+> When the oneiric cryostelid is reduced to 0 HP, it melts into a puddle of frigid water.
+
+> [!danger] External Help
+> 
+> If the players haven't already visited the Bearclaw Glacier, then when they begin fighting the Cryostelids, they'll hear two deep voices shouting, and they sound like they're coming to help. If after 3 rounds, the party is in some danger, then Keiran and Ansh will come help. After the fight, Keiran will restore HP up to half for all party members who are low. 
+> 
+> Keiran and Ansh will be in a rush to get to Ilsevel and Kamaeka, out of fear that something may have happened to them since they've been alone, and will say that to the party. Before that, they'll tell the party to make sure not to split up, because people who go off on their own have been disappearing. 
+
+At this point, the players might choose to go to Bearclaw if they haven't already, or continue pursuing Wu Ying. Unless they haven't visited Bearclaw and don't plan to before getting to Wu Ying, they'll catch up to Wu Ying in the Autumn cabin (see the "<span style="color:rgb(193, 145, 56)">Catching Wu Ying</span>" section). If they're going straight for Wu Ying, see the following "<span style="color:rgb(193, 145, 56)">Catching Wu Ying Early</span>" section. 
+
+The players are able to pick up Wu Ying's track again without an ability check.
+
+##### <span style="color:rgb(193, 145, 56)">Catching Wu Ying Early
+</span>
+
+> [!quote] You quickly follow the tracks past the frozen lake. The snow on the ground begins to thin, letting the gray stone underneath peek through. You spot mini-mountain range comprised of spires of the same gray stone lies ahead, and that's when you see a figure in the distance, moving away from you. They wear a black cloak, which billows behind them in the wind. And crucially, the footprints you've been trailing, lead right to them. What do you do?
+
+See the "<span style="color:rgb(193, 145, 56)">Catching Wu Ying</span>" section in <span style="color:rgb(134, 93, 187)">The Autumn Carriage</span> for what to do next.
+
+##### <span style="color:rgb(193, 145, 56)">Navigating the Mountain Maze</span> 
+
+> [!quote] Up ahead, a range of gray stone spires form a giant, ineffable maze—the passage through to the next Carriage must be in there, but your *own* intellect will be insufficient to navigate it.
+
+Have everybody make a DC 12 Wisdom Saving Throw. 
+
+Upon success: 
+
+> [!quote] You feel a presence, an intelligence, an *instinct*—guiding you through the dense stone labyrinth. You don't know when you stop thinking for yourself, but 
+
+#### <span style="color:rgb(134, 93, 187)">The Autumn Carriage</span>
 
