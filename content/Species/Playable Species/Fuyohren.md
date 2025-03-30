@@ -30,7 +30,7 @@ Bound to nature, the fuyohren bear an imprint of the world at the time of their 
 
 **<span style="color:rgb(134, 93, 187)">Fluid Motion</span>**: You have advantage on saving throws you make to avoid or end the [[Restrained]], [[Paralyzed]], or [[Petrified]] condition on yourself.
 
-**<span style="color:rgb(134, 93, 187)">Graceful Step</span>**: You can move across any fluid surface-such as water, mud, snow, or quicksand as if it were solid ground. However, you are not protected from the damaging effects of contact with dangerous liquids, like lava or acid.
+**<span style="color:rgb(134, 93, 187)">Graceful Step</span>**: You can move across any fluid surface-such as water, mud, snow, or quicksand as if it were solid ground. This also means that you ignore difficult terrain caused by slippery surfaces like ice. However, you are not protected from the damaging effects of contact with dangerous liquids, like lava or acid.
 
 **<span style="color:rgb(134, 93, 187)">Water Magic</span>**: Through a 10 minute ritual, you can imbue a vial of ordinary water with magical properties. Choose one of the following effects:
 
