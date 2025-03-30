@@ -303,3 +303,32 @@ describe("link strategies", () => {
     })
   })
 })
+
+describe("resolveRelative", () => {
+  test("from index", () => {
+    assert.strictEqual(path.resolveRelative("index" as FullSlug, "index" as FullSlug), "./")
+    assert.strictEqual(path.resolveRelative("index" as FullSlug, "abc" as FullSlug), "./abc")
+    assert.strictEqual(path.resolveRelative("index" as FullSlug, "abc/def" as FullSlug), "./abc/def")
+    assert.strictEqual(path.resolveRelative("index" as FullSlug, "abc/def/ghi" as FullSlug), "./abc/def/ghi")
+  })
+
+  test("from nested page", () => {
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "index" as FullSlug), "../")
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "abc" as FullSlug), "../abc")
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "abc/def" as FullSlug), "../abc/def")
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "ghi/jkl" as FullSlug), "../ghi/jkl")
+  })
+
+  test("with index paths", () => {
+    assert.strictEqual(path.resolveRelative("abc/index" as FullSlug, "index" as FullSlug), "../")
+    assert.strictEqual(path.resolveRelative("abc/def/index" as FullSlug, "index" as FullSlug), "../../")
+    assert.strictEqual(path.resolveRelative("index" as FullSlug, "abc/index" as FullSlug), "./abc/")
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "abc/index" as FullSlug), "../abc/")
+  })
+
+  test("with simple slugs", () => {
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "" as SimpleSlug), "../")
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "ghi" as SimpleSlug), "../ghi")
+    assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "ghi/" as SimpleSlug), "../ghi/")
+  })
+})
