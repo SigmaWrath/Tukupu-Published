@@ -9,9 +9,9 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">A miraculous priest of divine power.</span>*
 
-Clerics draw power from [[deities]] <span style="color:rgb(125, 125, 125)">(or other immortal entities, or even the [[Outer Planes|outer planes]])</span> and harness it to work miracles,  bolster people and battle foes.
+Clerics draw power from [[deities]] <span style="color:rgb(125, 125, 125)">(or other immortal entities, or even the [[Outer Planes|outer planes]])</span> and harness it to work miracles, bolster people and battle foes.
 
-Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on this power.
+Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity <span style="color:rgb(125, 125, 125)">(specifically, the [[Aspect|aspect]] of the deity)</span> or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on this power.
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the divine, but few can marshal its power the way a Cleric can.
 

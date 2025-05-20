@@ -1,45 +1,15 @@
 ---
 draft: true
 ---
-## Session Prep
-- GIVE IZ HIS GUIDE BACKGROUND SHIT
-- The train takes off (and comes in/materializes in) on a mountaintop railway
-- Once inside, they open up into sprawling natural environments. They are bounded on left and right (where the sides of the car/entry doors would be) by a misty abyss (the Ethereal Plane?)
-	- The Spring Carriage contains a bright blue sky, a technicolor forest, and a large cliff (400 feet tall) with a waterfall, that leads up to a river. At the top of the cliff, the river quickly leads into a cave, and traversing through the cave leads into the Winter compartment. 
-		- In the forest in the spring cabin, the players might encounter:
-			- A large dinosaur that they have to evade, hide from
-		- Yutyrannus in the Winter Carriage 
-- **The core of the mystery**: A small group of Pleasantries recently stumbled upon the Fey Rail, and realized they could use it to go to Naltor, attaining eternal sustenance. They stow away, and Charm the staff while quietly stealing away depressed passengers whom they put to sleep while feeding on their dreams. The difficulty happens when they try to put an Elf to sleep, and fail because Fey can't be magically put to sleep. The Elf gets aggressive and attacks, and the Pleasantries defend themselves, throwing him off the edge of the cliff in the Spring cabin. He dies screaming, alerting the party. 
-- Printing press out of magenta ink — correct brand?, firmware
-	- Chest weasel
-	- Mending spell
-	- The printing press is an opp?? 
-	- Print sheet music during the final boss fight
-	- Priya the Printing Press
-- Mead is a tool for the Pleasantries??
-	- Summer blue thread
-	- Dreams coagulate around their conceptual essence
-## Session Prep To-do
-1. Text messages:
-	1. Ask for character sheets
-	2. Send out safety tools
-		1. Potential triggers: murder, something that might be vaguely reminiscent of suicidal ideation, insectophobia
-2. All Obsidian items listed below
-3. Feywild page
-4. Note: Players outlined some BS they wanted. INCLUDE
-	1. Printing press
-	2. Mead brewing ability aka a tavern
-	3. Gimmicks and hijinks
-	4. Mysteryyyyyy
-	5. Unique flora (and fauna)
 ## <span style="color:rgb(134, 93, 187)">Obsidian</span>
 1. Character creation content <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. All classes 
 		1. Standardize equipment formatting and GP cost
 		2. Ideally fill in tools? From tool proficiency section of each class. (Also can find tools in backgrounds. Check unlinked mentions for each tool we end up creating)
-3.  Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
-4. Languages page, don't write articles, just list or write very brief articles <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+2.  Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
+3. Languages page, don't write articles, just list or write very brief articles <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. Jupi is spoken in the Khalsan empire
+4. Add Abjurer subclass for Wizard
 5. Inner planes maybe should have an additional collective name, a more accurate one, to refer to the collective construction of them... ooh, Terra!
 6. Four subclasses per class... try to get most done tho? Dw if not
 7. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
@@ -80,6 +50,27 @@ draft: true
 	- Bast (she/her) is the Cat Queen, and mother of the Tabaxi (who are cat Ardlings)
 	- Ame-no-Kaku is the Deer Queen, also known as the Doe Spirit (is also paramour of Bast)
 	- Kamdhenu is the Cow Queen
+	- List of Beast Lords
+		- <span style="color:rgb(79, 151, 125)">Cat Queen</span>
+			- Pumas
+			- Tigers, Leopards, Jaguars, Lions
+			- Lynxes
+			- Felis (small cats and domestic cats)
+		- <span style="color:rgb(79, 151, 125)">Deer Queen</span>
+		- Bovidae (<span style="color:rgb(79, 151, 125)">Cow Queen</span>)
+			- Goats
+			- Sheep
+			- Cattle
+			- Antelope
+		- <span style="color:rgb(79, 151, 125)">Dog Lord</span>
+			- Dogs, wolves, coyotes
+			- Jackals
+			- -> <span style="color:rgb(79, 151, 125)">Fox Queen</span>
+		- Ursidae (<span style="color:rgb(79, 151, 125)">Bear Queen</span>)
+		- Mustelidae (<span style="color:rgb(79, 151, 125)">Otter Queen</span>)
+			- Stoats, weasels, otters
+			- Badgers
+		- Mephitidae (<span style="color:rgb(79, 151, 125)">Skunk Lord</span>)
 - Queen of dreams is archfey?
 - Drow: Lolth-sworn and Seldarine. The Spider Queen was split in two through and sent to the material plane through some magic bullshit. Good-aligned and evil-aligned by sheer circumstance of environment.
 	- Or... just do away with the whole evil drow thing. Not a bad idea at all

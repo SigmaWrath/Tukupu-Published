@@ -11,12 +11,12 @@ Pleasantries found their way aboard the Fey Line. They quickly dream-possessed (
 Wu Ying is now running through the Winter Carriage, repossessed after he drank more mead while hyperventilating about accidentally killing someone. 
 ### Clue Map
 
-| <span style="color:rgb(125, 125, 125)">Things I want my players to find out</span> | What (did they do)                                  | Who (did it, surface level)           | Why #1                                         | Why #2                                          | Where is Wu Ying now?                                                | How (did they do it)                                                                                                                                           |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------- | ---------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Answers                                                                            | Murdered Kamaeka, an noble elf from Naurhith.       | Wu Ying, a human scholar from Gorano. | Evil mead can be used to dream-possess people. | People aboard the train have been dissapearing. | Running through the Winter Cabin, trying to get to the Autumn Cabin. | Wu Ying pushed Kamaeka off a cliff. He was dream-possessed by the Pleasantries when he drank the mead they made and put in the brewery in the Summer Carriage. |
-| Clue 1                                                                             | His body is found at the bottom of the waterfall.   |                                       | Mead on Kamaeka's shirt.                       |                                                 |                                                                      |                                                                                                                                                                |
-| Clue 2                                                                             | There were shouts coming from the top of the cliff. |                                       | Mead bottle at the crime scene.                |                                                 |                                                                      |                                                                                                                                                                |
-| Clue 3                                                                             | <span style="color:rgb(125, 125, 125)">—</span>     |                                       |                                                |                                                 |                                                                      |                                                                                                                                                                |
+| <span style="color:rgb(125, 125, 125)">Things I want my players to find out</span> | What (did they do)                                  | Who (did it, surface level)                     | Why #1                                                                                                               | Why #2                                                    | Where is Wu Ying now?                                                |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------- |
+| Answers                                                                            | Murdered Kamaeka, an noble elf from Naurhith.       | Wu Ying, a human scholar from Gorano.           | Evil mead can be used to dream-possess people.                                                                       | People aboard the train have been dissapearing.           | Running through the Winter Cabin, trying to get to the Autumn Cabin. |
+| Clue 1                                                                             | His body is found at the bottom of the waterfall.   | Tracks leading towards him.                     | Mead on Kamaeka's shirt, and mead bottle at the crime scene.                                                         | Jasmine disappeared last week.                            |                                                                      |
+| Clue 2                                                                             | There were shouts coming from the top of the cliff. | He admits it.                                   |                                                                                                                      | Keiran and Ansh say that other camps of been saying that. |                                                                      |
+| Clue 3                                                                             | <span style="color:rgb(125, 125, 125)">—</span>     | <span style="color:rgb(125, 125, 125)">—</span> | The baobab tree and honeycomb are covered in dream thread, like the one that forms when the otters put you to sleep. |                                                           |                                                                      |
 
 ## The Adventure!!
 
@@ -217,11 +217,187 @@ See the "<span style="color:rgb(193, 145, 56)">Catching Wu Ying</span>" section 
 
 > [!quote] Up ahead, a range of gray stone spires form a giant, ineffable maze—the passage through to the next Carriage must be in there, but your *own* intellect will be insufficient to navigate it.
 
-Have everybody make a DC 12 Wisdom Saving Throw. 
+<u>Have everybody make a Wisdom Saving Throw</u>
 
-Upon success: 
+<span style="color:rgb(192, 82, 75)">For everyone who succeeds</span> (all but the lowest, do this first): 
 
-> [!quote] You feel a presence, an intelligence, an *instinct*—guiding you through the dense stone labyrinth. You don't know when you stop thinking for yourself, but 
+> [!quote] You feel a presence, an intelligence, an *instinct*—guiding you through the dense stone labyrinth. You don't know when you stop thinking for yourself, but you enter a trance-like state. Time has no meaning. Suddenly, the mountain pass is behind you. You look upon a swampy forest adorned with leaves of red, orange and yellow hues. A gentle breeze creates a lilt in falling leaves, and a small stream trickles ahead. Golden sun peers through the foliage above, dappling the forest floor with warmth, and the smell of mud wafts through the air. Welcome to the Autumn Carriage!
+
+<span style="color:rgb(192, 82, 75)">The lowest roll fails</span>:
+
+> [!quote] You step forward into the maze of stone spires, trying to maintain a sense of forward direction. Then, you blink. Your party members are gone. You're navigating alone. What do you do?
+
+If the player tries to make any checks to navigate at this point, they fail. And then:
+
+> [!quote] Suddenly, you bump into someone, who you don't recognize. They stand there impassively. A 5-foot tall woman with rams horns and yellow eyes, dressed in what looks like woven straw. What do you do?... [Wait for their response]. The woman says, "I offered you my help navigating. Why didn't you take it?"
+
+Eventually, the woman will reveal that she is a [[Kami]], a regional spirit of nature that is associated with this mountain range. Since her help wasn't accepted the first time, she wants something in return this time. She'll ask what they can offer, but she doesn't want something of material wealth—dealer's choice what she accepts, but go with something narratively interesting.
+
+If she's asked for her name, she'll say it was taken from her—and then she'll ask for the player's, in return for guiding them through the maze.
+
+Once the deal is made, this player will get to join the others.
 
 #### <span style="color:rgb(134, 93, 187)">The Autumn Carriage</span>
+
+At this point, players will roughly be in one of two states:
+1. They have caught Wu Ying, learned what happened, and are headed to the library
+2. They are pursuing Wu Ying, about to catch up to them
+
+##### <span style="color:rgb(193, 145, 56)">Catching Wu Ying</span> 
+
+> [!quote] Ahead of you, in the distance, wading slowly through shallow water, you spot movement—a figure in a black cloak, which billows behind them in the wind. Perhaps, the perpetrator you've been tracking all this time... what do you do?
+
+Whether they approach Wu Ying peacefully or violently, Wu Ying will have glowing blue eyes that indicate they're in a trance. Dream threads leak down their face. Once shaken out of it, they'll be defensive, seeing threat, dazed. Roleplay their decisions and actions in the moment—exactly how I would act. 
+
+While struggling to remember what happened while they were possessed, Wu Ying might say they felt a compulsion to move forward—towards the engine that is.
+
+> [!bug] If the Players Skipped Bearclaw Glacier Camp
+> 
+> If the players have not yet visited Bearclaw, then Wu Ying should emphasize that they felt that feeding Kamaeka the mead was necessary, but they don't know why... something about him specifically. This should emphasize to the players the necessity of visiting Bearclaw Glacier Camp, where they'll find out:
+> 1. Kamaeka was depressed
+> 2. Jasmine disappeared a few days ago 
+> 3. Others have been disappearing as well
+
+Eventually Wu Ying should reveal that their goal is to go to a library that they heard about in the Autumn Carriage, which may have answers to explain their situation (they're a scholar). The players have to find the library, because the Autumn Carriage is big and without many landmarks. While discussing how to do this, if they don't already have a brochure, they will be delivered one by a parrot that swoops down out of nowhere: "Fresh off the printing press! Squawk!"
+
+If the brochure is consulted, then it'll specify that the library is inside a very large, hollow tree. The printing press is located there as well. See "<span style="color:rgb(193, 145, 56)">Finding the Library</span>" to proceed from here.
+
+Instead of going to the library, the players at this point may choose to go to the Summer Carriage to investigate the production of the mead (see "<span style="color:rgb(134, 93, 187)">The Summer Carriage</span>"). 
+
+##### <span style="color:rgb(193, 145, 56)">Finding the Library </span>
+
+Players might try to find the library several different ways:
+1. <span style="color:rgb(125, 125, 125)">Skill checks, looking for signs of a library ("signs of a library" is ridiculous, don't humor this)</span>
+2. <span style="color:rgb(186, 74, 120)">Asking people</span>—are there any other camps around? Maybe someone there knows
+3. Asking animals, using the [[Speak with Animals]] spell 
+	- The animals will give them very specific instructions on how to get to the library
+4. Using the staff necklace to birds-eye view the cabin
+	- In this case, the players will see three landmarks: 1) The stream flowing through the carriage, 2) an plain open field on the west side of the carriage, and 3) a concentration of trees that get larger and larger all centered around one absolutely enormous tree
+
+<span style="color:rgb(186, 74, 120)">Asking people</span>:
+
+| <span style="color:rgb(125, 125, 125)">Helpers</span> | Extrovert                                                    | Introvert                                                                        |
+| ----------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Name                                                  | Amani                                                        | Villette                                                                         |
+| Pronouns                                              | they/she                                                     | fae/faer                                                                         |
+| Species                                               | Water Genasi                                                 | Fairy                                                                            |
+| Skin Color                                            | Teal                                                         | Dark Brown                                                                       |
+| Hair Color                                            | Dark green                                                   | Black                                                                            |
+| Hair Style                                            | Loose waves, sideswept                                       | Tight curls, in a high bun                                                       |
+| Outfit stuff                                          | An oversized cream-colored linen shirt and brown ankle boots | Dress of layered translucent purple and blue fabrics, which together look opaque |
+
+Amani is has a very valley-girl vibe. If questioned, they'll say that them and Vilette were walking around earlier and found a book lying on the ground in a "really creepy" part of the forest with tall trees. The players find the library, but Waste Time doing so... time that could cost them in the final battle. 
+
+> [!warning] On the Way to the Library
+>
+> The player with the highest Passive Perception sees a flicker of movement. Something potentially shady, so have the players make a Stealth check. A staff member (Ailluin by default) has cornered a halfling (Kordon, he/him, pale skin, layered fitted clothes) alone and offers them a bottle of mead. If the players intervene, the staff member will encourage Kordon to drink, and teleport away if they sense danger. Kordon will not drink if he has a reason to be suspicious. 
+> 
+> If the players do not intervene, Kordon will drink the mead, and quickly his eyes will turn blue. The staff member's eyes will then turn blue as well, and they will teleport away with him. If Wu Ying is with the party and has heard about their own possession, they'll comment, "Is that what I looked like?"
+
+##### <span style="color:rgb(193, 145, 56)">Entering the Library</span>
+
+> [!quote] The foliage overhead gets thicker as you continue on, casting darker and darker shadows onto the forest floor. The air here feels damp and still. And then, ahead of you, you see one tree, taller than the rest, a trunk as wide as a small house. There's a crack in the tree trunk big enough for an elf to squeeze through, revealing a dark, hollow interior. But standing in front of this tree, in shadow: a 10-foot tall, floating person with purple clouds instead of legs—he holds a a large, open book, scribbling something furiously with a quill pen. He murmurs aloud... 
+> 1. "What weighs more, a memory or a regret? "
+> 2. "What weighs more, orange or blue?"
+> 3. "If a book is never read, was it ever truly written?"
+> 4. "If you forget your past, are you still the same person?"
+> 5. "What is a thing? Is anything a thing? How do you talk about things if there are no things?"
+
+Upon spotting them, the Asker will then ask the players, "How did you get here? Where are you going? What are you made out of?"
+
+The players can have their fun with this. If the Asker makes a mistake and doesn't say a question, then describe pain overwhelming them followed by, "Why does it hurt so much? Why do I always have to ask questions? No, why are questions better than answers?"
+
+> Optionally at this stage: "What's a Wisdom Saving Throw? Oh did I break the fourth wall?" Then have the players make DC 10 Wisdom Saving Throw. On a failure, they'll see visions of the past, of the Asker when they were a mortal—smug, over-confident, thought he was always right. Their arrogance hurts the lives of millions. And one of those people took revenge on him, cursing him to never even pretend to have answers—only questions. 
+
+If the players ask about the library, or try to just go in, "Why can't you move?"
+
+Eventually, the Asker will ask, "Do you have a better question than me? What's the best question to ask? If ask the previous question results in you knowing best question, then isn't the previous question the best question? But the question that gives you the best question gives you itself, then wouldn't it be useless? Or would it be? Can you come up with a better question than me?" He continues on.
+
+GM's choice as to what question gains the asker's approval. If he approves, he'll ask, "How can I help you?", greatly slowing down his questioning. If the players ask to be let into the library, he'll ask why, probing and probing, and asking questions that might help them better understand what's happening aboard the train, and point them in the right place. 
+
+##### <span style="color:rgb(193, 145, 56)">Inside the Library</span>
+
+> [!quote] You step across the threshold, and suddenly... you're in a small clearing in a jungle under bright blue sky. It's a breath of fresh air from the staleness of the forest you were just in. Dense flora surrounds the clearing, and small animals hop around the trees, colorful insects buzzing about. You hear a roar in the distance. You see rainbow-colored birds flying overhead, including a familiar parrot. Stone benches and shelves line the edge of the clearing, full of writings and drawings from old silt slates to papyrus to modern books. Behind you, the threshold you just stepped through is now a large stone arch, with glowing golden runes inscribed in its surface. You can still hear the library's guardian outside, murmuring questions to himself. At the center of the clearing: a printing press!
+
+> [!question] Missed the Staff Necklace?
+> 
+> If the players don't already have a Staff Necklace, they find one sitting on one of the benches here.
+###### <span style="color:rgb(192, 82, 75)">Priya the Printing Press</span> 
+
+Priya will greet the players upon their arrival to the library, serving as the guide and the librarian: "Oooh, new headline! Group of weirdos enters *my* library." 
+
+If asked, she'll explain that she prints the brochures, but wants to upgrade into printing news like some of her printing press friends from when she was a kid. She'll ask if the players have any ideas for headlines.
+
+If the players ask for any information regarding the mystery about the train, she'll say, "Sure thing! Here's where you can find that information!" Paper flies around, and letter stamps arrange themself, and in a little bit, she prints out a slip of paper—it says, "Out of magenta ink". This is notable because *this* is printed in magenta ink, whereas everything before had been printed in black ink. 
+
+In order to fix this, the players will either need an Investigation or Arcana check of DC 13. Either will reveal small add-on mechanism in Priya's arcane engine, that is covered in faint blue threads. Taking it out will fix Priya. Detect Magic will also reveal it, as it has its own magical aura. 
+
+Once the add-on is taken out, she'll print "Firmware update needed." At the player's annoyance, the chest weasel will pop out, saying that it appreciates the players' annoyance again. Fae'll also clarify that they only caused the "Firmware update needed" bug, not the "Out of magenta ink" one.
+
+Now, Priya can direct the players to information about the otters they fought, with a book called *Haleriel's Arcane Bestiary Catalogue*. Wu Ying will want information regarding the blue thread, which can be peripherally hinted at in a papyrus legend on one of the benches, but in a language none of the player's recognize. A successful DC 14 Arcana check will reveal that the blue thread is associated with dreams. If the players ask about the mead, direct them to a book called *Antidotes and Elixirs* by [[Tasha]], which says that to make an antidote, it's useful to find out how the agent was made. 
+###### <span style="color:rgb(192, 82, 75)">The Terrors Approach</span>
+
+Once the players have spent some time in the library and gotten answers, they'll probably want to find out about the mead in the Summer Carriage. They hear the Guardian yelping outside: "What are you? Why am I so scared? How d—" They'll then hear him screaming. Let the players react how they wish to.
+
+> [!quote] The air chills. Black, oily ichor seeps out through the stone archway—and then it takes form, coagulating into two 8-foot tall giant arms, with grotesque eyes and teeth all over. They slowly approach.
+
+Everyone should make Wisdom Saving throws. Upon a failure, they're [[Frightened]]—ask them what their character is most afraid of. 
+
+Wu Ying will encourage the party to teleport back to the Spring Carriage using the staff necklace. If they do this, have the player who's holding his hand for the teleport make a Strength Saving Throw. No matter what, they fail, and Wu Ying is taken by the Night Terrors just before they teleport. The Autumn Carriage bead becomes covered in oil, unusable for the time being (so they can't just go back and save them).
+
+![[Night Terror Statblock.png]]
+
+#### <span style="color:rgb(134, 93, 187)">The Spring Carriage (Pt. 2)</span> 
+
+This is the route to the Summer Carriage. 
+
+> [!quote] You stand on the black sand beach of the lake at the back of the Spring Carriage. You hear the conversation from camps in the far distance behind you. Passengers, blissfully unaware of what's happening aboard the train. The lake in front of you looks tranquil and *ordinary*, but for one thing—a large whirlpool slowly churns in the center of it.
+
+If the players are unsure, Wu Ying will tell them that the whirlpool is where they came out when they left the Summer Carriage. Swimming into the whirlpool will transport them to the Summer Carriage. 
+
+### <span style="color:rgb(203, 123, 55)">Act 3</span>
+#### <span style="color:rgb(134, 93, 187)">The Summer Carriage</span> 
+
+> [!quote] It's dusk in the Summer Carriage. The setting sun casts an warm orange glow over the landscape, and a sliver of a crescent moon is visible in the sky, as well as the brightest stars. You find yourself in a savannah, with tall, yellow grasses and sparse trees—Baobab trees. In the far distance, you can make out the silhouette of what looks some artificial structure in a field of flowers. But... something is off. This carriage is much, much quieter than the others. And when you look around for people and camps, you notice several disconcerting things. You can see many camps, given the open visibility of the landscape, but all of them are empty. The fires are all out, throwing up only hints of smoke in the air now. You can make out several bodies scattered around the grasses... dead?—no, sleeping. You watch as staff members, with unhidden, glowing blue eyes, teleport in white mist around the carriage to the sleeping people. All around, the sleeping people stand up (eyes still closed), then teleport away with staff members—where to, is unknown. What do you do?
+
+If the party tries to wake up the people or interfere with the staff they're too slow; the staff members teleport them away very quickly. If the players do something hella creative to get to someone, reward them with the following character:
+
+| <span style="color:rgb(125, 125, 125)">Character</span> | Passenger                                    |
+| ------------------------------------------------------- | -------------------------------------------- |
+| Name                                                    | Hiroto                                       |
+| Pronouns                                                | he/they                                      |
+| Species                                                 | Human                                        |
+| Skin Color                                              | Pale                                         |
+| Hair Color                                              | Dark red                                     |
+| Hair Style                                              | Short, chopy                                 |
+| Outfit Stuff                                            | Fitted black Hanfu, with a sword on his belt |
+
+What they're here for ultimately is to find out how the dream mead is made. This should lead them to the structure mentioned earlier, the only meaningful thing left here. 
+
+> [!quote] As you approach, you see 2-foot tall, silver and blue, insectoid creatures with two sets of wings, spindly limbs, and large stingers. They flit about a field of bright red flowers, gathering nectar from them. You see several of these creatures up in baobab trees, gathering honey from beehives there. In the center of the field, you see a bar made out of wood—like the kind that serves drinks. A glass alchemical is on the counter. There are several barrels around, and a dispensary where bottles of dark blue glass are filled with the mead that's produced here. Tending the bar are several of the insectoid creatures, who seem to be *crying*, capturing there tears in vials, and brewing them into the mead with the honey and poppy nectar. The creatures haven't spotted you yet... what do you do?
+
+If creatures spot the players, they snap their fingers, and anyone traveling with the party who has previously consumed mead becomes possessed again—they were only temporarily snapped out of it, but they party needs a true antidote. A command reverberates through the minds of everyone—a hissing voice says: "Get back to the engine!". The dream sprites will blink out of existence at this point, potentially taking the repossessed companions with them.
+
+Once the dream sprites blink out of existence, a night terror may appear.
+
+By passing a DC 15 Arcana check, the players can successfully brew a permanent antidote using the set at the bar. If they read *Antidotes and Elixirs*, they get Advantage on this check. 
+#### <span style="color:rgb(134, 93, 187)">The Engine</span> 
+
+##### <span style="color:rgb(193, 145, 56)">Entering the Engine</span>
+
+In order to reach the engine, the players must go through the Autumn Carriage. At the end of the Autumn Carriage, there's a large, brown stone edifice, containing a circular set of arcane carvings. A wizard will recognize these as a representation of desmata topology (the mechanism that wizards use for spellcasting)—they will also recognize that in order to open it, pressure will need to be put in three places at the same time. Ranged spells (i.e. Mage Hand, perhaps thrown bludgeoning weapons, monk wall run, or flight) can be used to accomplish this. Doing so will open up a portal to the engine:
+
+> [!quote] The circular slab in the edifice shifts, throwing a bit of dust into the air. Slowly, it begins to rotate—then faster, faster, spinning until it's so fast that it glows—and gives way to a large, swirling green portal.
+
+##### <span style="color:rgb(193, 145, 56)">The Foyer of the Engine</span>
+
+> [!quote] You step through the portal, and find yourself... in a *forest*—an unusual one. *Red* and *pink* trees and brush are in various stages of bloom, orange and brown fallen leaves coat the ground, spotted with piles of snow around the bases of trees. The flat grey light of overcast sky somehow gives a *sharper* edge to the strangely colored foliage around you. 
+> But the most notable thing is the arcane mechanical infrastructure. Glass pipes embedded in the ground run forward, filled with fluids of various color and viscosity. Small orbs of white crystal hang high in the air above you, lightning crackling between them. 
+> 
+> Off in the distance, you see those same tiny blue insectoid creatures from the Summer Carriage, one of those black oozes from the Library—a large stone structure obscures your view. And more than that—strung up from the trees in gossamer-like cocoons, are dozens, no—more than a couple hundred people—passengers and staff alike. 
+
+
+##### <span style="color:rgb(193, 145, 56)">The Dream Queen (aka Nyxoneiro, aka The Pleasantry Queen)</span>
+
+> [!quote] As you round the stone structure, a very large creature comes fully into view. A ten-foot tall, blue insectoid, with four sets of wings, spindly limbs, and a massive, sharp stinger.
 

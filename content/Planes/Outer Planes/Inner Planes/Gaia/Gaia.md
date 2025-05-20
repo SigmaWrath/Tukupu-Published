@@ -9,7 +9,7 @@ Gaia is located at <span style="color:rgb(134, 93, 187)">Cardinal Planet</span>.
 
 Gaia has three layers: the [[Feywild]], [[Vesperia]], and the [[Shadowfell]]. Each layer of Gaia has the same broad topography and natural landmarks, which are synchronized. Scholars from Vesperia have long considered the Feywild and the Shadowfell as "echoes" of Vesperia.
 
-Worth mentioning are [[Kami]], who have forms in each level of [[Gaia]]. 
+Worth mentioning are [[Kami]], who have forms in each level of Gaia. 
 
 ###### <span style="color:rgb(203, 123, 55)">The Feywild</span>
 <span style="font-style:italic; color:rgb(125, 125, 125)">(See main article: [[Feywild]])</span>

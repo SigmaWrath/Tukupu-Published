@@ -7,7 +7,7 @@ aliases:
 tags:
   - plane
 ---
-> *<span style="color:rgb(125, 125, 125)">The [[Planes|planes]] farthest away from the [[Vesperia|Material Plane]] that are still accessible.</span>*
+> *<span style="color:rgb(125, 125, 125)">The [[Planes|planes]] farthest away from the [[Axial Planes]] that are still accessible.</span>*
 
 The outer planes are immensely varied. Some obey different laws of physics <span style="color:rgb(125, 125, 125)">(these are called **<span style="color:rgb(79, 151, 125)">Strange Planes</span>**)</span>, and even have their own [[Minor Deities|local deities]] apart from the [[The Lovers|Lovers]].  
 

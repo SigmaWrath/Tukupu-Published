@@ -18,6 +18,12 @@ The book contains the level 1+ spells you know. It starts with six level 1 Wizar
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
+> **<span style="color:rgb(193, 145, 56)">Copying a Spell into the Book</span>**: When you find a level 1+ Wizard spell, you can copy it into your spellbook if it’s of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.  
+> 
+> **<span style="color:rgb(193, 145, 56)">Copying the Book</span>**: You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.  
+  
+If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+
 **<span style="color:rgb(134, 93, 187)">Changing Your Prepared Spells</span>**: Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
 
 **<span style="color:rgb(134, 93, 187)">Spellcasting Ability</span>**: Intelligence is your spellcasting ability for your Wizard spells.
