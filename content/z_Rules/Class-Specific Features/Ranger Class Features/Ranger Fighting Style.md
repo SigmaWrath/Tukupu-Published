@@ -1,4 +1,4 @@
-##### [[Ranger]] Class Feat (Level 1)
+##### *<span style="color:rgb(203, 123, 55)">[[Ranger]] Class Feat (Level 2)</span>*
 
 You gain a [[Fighting Style]] feat of your choice. Instead of choosing one of those feats, you can choose the option below.
 

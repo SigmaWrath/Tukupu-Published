@@ -11,7 +11,7 @@ Playable Species:
 - [[Dhampirs]]
 - [[Dragonborn]]
 - [[Dwarves]]
-- [[Elves]]
+- [[Elves]] <span style="color:rgb(125, 125, 125)">(see also [[Eladrin]])</span>
 - [[Fairies]]
 - [[Fuyohren]]
 - [[Genasi]]
@@ -47,6 +47,8 @@ Non-Playable Species:
 - [[Medusae]]
 - [[Merfolk]]
 - [[Phoenixes]]
+- [[Pleasantries]]
+	- [[Pleasantry Queen]]
 - [[Sphinxes]]
 - [[Unicorns]]
 - [[Vampires]]

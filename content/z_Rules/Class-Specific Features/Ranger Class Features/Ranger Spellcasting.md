@@ -28,7 +28,7 @@ The information below details how you use spellcasting rules Ranger spells. You 
 | [[Cure Wounds]]               | Abjuration    | <span style="color:rgb(125, 125, 125)">—</span> |
 | [[Detect Magic]]              | Divination    | C, R                                            |
 | [[Detect Poison and Disease]] | Divination    | C, R                                            |
-| [[Ensnaring Strike]]          | Conjration    | C                                               |
+| [[Ensnaring Strike]]          | Conjuration   | C                                               |
 | [[Entangle]]                  | Conjuration   | C                                               |
 | [[Fog Cloud]]                 | Conjuration   | C                                               |
 | [[Goodberry]]                 | Conjuration   | <span style="color:rgb(125, 125, 125)">—</span> |

@@ -16,7 +16,7 @@ The first elves could change their forms at will. There are many theories as to 
 
 Elves have pointed ears and lack facial and body hair. They live for around 750 years, and they don't sleep but instead enter a trance when they need to rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations. 
 
-An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.
+An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus. [[Eladrin]] are the elves that stayed in the Feywild.
 
 #### <span style="color:rgb(203, 123, 55)">Drow</span> 
 

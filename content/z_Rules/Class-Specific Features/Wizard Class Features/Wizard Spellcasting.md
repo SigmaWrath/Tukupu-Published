@@ -91,6 +91,43 @@ If you lose your spellbook, you can use the same procedure to transcribe the Wiz
 | [[Witch Bolt]]                    | Evocation     | C                                               |
 ###### Level 2 Wizard Spells
 
-| Spell | School | Special |
-| ----- | ------ | ------- |
-|       |        |         |
+| Spell                                      | School        | Special |
+| ------------------------------------------ | ------------- | ------- |
+| [[Alter Self]]                             | Transmutation |         |
+| [[Arcane Lock]]                            |               |         |
+| [[Arcane Vigor]]                           |               |         |
+| [[Augury]]                                 |               |         |
+| [[Blindness—Deafness\|Blindness/Deafness]] | Transmutation |         |
+| [[Blur]]                                   |               |         |
+| [[Cloud of Daggers]]                       |               |         |
+| [[Continual Flame]]                        |               |         |
+| [[Crown of Madness]]                       |               |         |
+| [[Darkness]]                               | Evocation     |         |
+| [[Detect Thoughts]]                        | Divination    |         |
+| [[Dragon's Breath]]                        | Transmutation |         |
+| [[Enhance Ability]]                        | Transmutation |         |
+| [[Enlarge—Reduce\|Enlarge/Reduce]]         | Transmutation |         |
+| [[Flaming Sphere]]                         |               |         |
+| [[Gentle Repose]]                          |               |         |
+| [[Gust of Wind]]                           | Evocation     |         |
+| [[Hold Person]]                            | Enchantment   |         |
+| [[Invisibility]]                           | Illusion      |         |
+| [[Knock]]                                  |               |         |
+| [[Levitate]]                               | Transmutation |         |
+| [[Locate Object]]                          |               |         |
+| [[Magic Mouth]]                            |               |         |
+| [[Magic Weapon]]                           |               |         |
+| [[Melf's Acid Arrow]]                      |               |         |
+| [[Mind Spike]]                             |               |         |
+| [[Mirror Image]]                           | Illusion      |         |
+| [[Misty Step]]                             | Conjuration   |         |
+| [[Nystul's Magic Aura]]                    |               |         |
+| [[Phantasmal Force]]                       | Illusion      |         |
+| [[Ray of Enfeeblement]]                    | Necromancy    |         |
+| [[Rope Trick]]                             | Transmutation |         |
+| [[Scorching Ray]]                          |               |         |
+| [[See Invisibility]]                       | Divination    |         |
+| [[Shatter]]                                | Evocation     |         |
+| [[Spider Climb]]                           |               |         |
+| [[Suggestion]]                             | Enchantment   |         |
+| [[Web]]                                    |               |         |

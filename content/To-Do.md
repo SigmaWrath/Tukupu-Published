@@ -9,13 +9,13 @@ draft: true
 2.  Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 3. Languages page, don't write articles, just list or write very brief articles <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. Jupi is spoken in the Khalsan empire
-4. Add Abjurer subclass for Wizard
-5. Inner planes maybe should have an additional collective name, a more accurate one, to refer to the collective construction of them... ooh, Terra!
-6. Four subclasses per class... try to get most done tho? Dw if not
-7. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
-8. Change the names of the renowned wizards who have spells named after them.
-9. Mortal manifestations of deities (appearances)??
-10. Solars and lunars - servants of deities
+4. Inner planes maybe should have an additional collective name, a more accurate one, to refer to the collective construction of them... ooh, Terra!
+5. Four subclasses per class... try to get most done tho? Dw if not
+6. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
+7. Change the names of the renowned wizards who have spells named after them.
+8. Mortal manifestations of deities (appearances)??
+9. Solars and lunars - servants of deities
+10. Elysian Beasts - https://www.youtube.com/watch?v=dJ1MH6tMc9U
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Get leaflet working (or some other pinned maps)
@@ -41,12 +41,14 @@ draft: true
 		- And a Concord Jewel connecting it to the Radiant Citadel (Radiant Citadel civs: sister to the material plane, or wildspace systems in the Astral Sea???)
 	- Aldania: the Lovers' Palace, with rainbow skies kind of like the celestial event in episode 6 of Andor (perpetual solar eclipse in a sense) 
 		- This is the core of the Axial Planes
+		- Since it's letting in the deities' full power, maybe only very powerful beings can survive there—mechanically, EITHER you can't stay there for more than like a day per year OR you have to be above a certain level
 	- The Houses of Night must be traversed by the River of Night. (Twelve houses? Idk just do strictly as many as needed, no more, no less)
 - ~~Tabaxi~~ $\rightarrow$ [Ardlings](https://dungeonsanddragonsfan.com/ardling-one-dnd-news/), descended from Beast Lords
 	- Which means new outer plane: the Beastlands
 		- Three levels: high sun (Krigala), dawn/dusk (Brux), high moon (Karasuthra)
 			- Fountain of Eternity is on Krigala
 			- Beast Lords get fed similar to how PJO gods recieve campfire food sacrifices?
+		- <span style="color:rgb(134, 93, 187)">Alternative idea: the animal world that Aliya and I made</span>
 	- Bast (she/her) is the Cat Queen, and mother of the Tabaxi (who are cat Ardlings)
 	- Ame-no-Kaku is the Deer Queen, also known as the Doe Spirit (is also paramour of Bast)
 	- Kamdhenu is the Cow Queen

@@ -10,9 +10,9 @@ The counsel of a Diviner is sought by those who seek a clearer understanding of 
 ### Mechanical Traits
 
 #### <span style="color:rgb(203, 123, 55)">Level 3: Divination Savant</span>
-Choose two [[Wizard]] spells from the Divination school, each of which must be no higher than level 2, and add them to your spellbook for free.
+Choose two [[Wizard]] spells from the Divination school ( #spell/divination ), each of which must be no higher than level 2, and add them to your spellbook for free.
 
-In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Divination school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+In addition, whenever you gain access to a new level of spell slots in this class, you can add one [[Wizard Spellcasting|Wizard Spell]] from the Divination school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
 
 #### <span style="color:rgb(203, 123, 55)">Level 3: Portent</span>
 Glimpses of the future begin to press in on your awareness. Whenever you finish a Long Rest, roll two d20s and record the numbers rolled. You can replace any d20 Test made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.

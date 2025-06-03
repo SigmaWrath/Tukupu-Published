@@ -6,7 +6,7 @@ draft: true
 ### Premise
 A marvel of arcane engineering, the Fey Line is an inter-dimensional "train" that takes passengers on a 36-hour journey from [[Vesperia]] (the Material Plane) to the [[Feywild]], to the realm of vibrant nature unrestrained, of chaos and emotion and magic.
 
-Pleasantries found their way aboard the Fey Line. They quickly dream-possessed (different from Charmed) the staff (who is almost entirely elven, with a couple humans). They've been quietly stealing away depressed passengers to feed on their dreams, by using special mead (brewed in the Summer Carriage) to dream-possess them. On one of these attempts, they used a dream-possessed human passenger (Wu Ying) to try to force-feed mead to an elf (who was of a religion that didn't drink mead)—however, this failed, and the elf thought he was being attacked. A struggle ensued, and Wu Ying got hurt, which broke the possession. In the heat of the fight, they spinning-side-kicked Kameaka in the chest, sending him flying off the cliff in the Spring Carriage.
+[[Pleasantries]] found their way aboard the Fey Line. They quickly possessed the staff (who is almost entirely elven, with a couple humans) using special mead they brewed in the Summer Carriage of the train. The also used the staff to deliver mead to passengers to possess them through the mead. On one of these attempts, they used a dream-possessed human passenger (Wu Ying) to try to force-feed mead to an elf (who was of a religion that didn't drink alcohol)—however, this failed, and the elf thought he was being attacked. A struggle ensued, and Wu Ying got hurt, which broke the possession. In the heat of the fight, they spinning-side-kicked Kameaka in the chest, sending him flying off the cliff in the Spring Carriage.
 
 Wu Ying is now running through the Winter Carriage, repossessed after he drank more mead while hyperventilating about accidentally killing someone. 
 ### Clue Map
@@ -173,7 +173,7 @@ Ilsevel will ask what the party's progress on tracking Kamaeka's killer is. She'
 
 > [!note] Ilsevel and Jasmine's Summoning Rune
 > 
-> A wizard can get the 3rd-level spell *Ilsevel and Jasmine's Summoning Rune* with the functionality above if the party successfully rescues Jasmine from the Dream Queen's Sister, Oomi. In this case, Jasmine will ask for a party member's spellbook, and write down arcane notes on how to do it in the book.
+> A wizard can get the 3rd-level spell [[Jasmine and Ilsevel's Summoning Rune]] with the functionality above if the party successfully rescues Jasmine from the Dream Queen's Sister, Nyxoneiro. In this case, Jasmine will ask for a party member's spellbook, and write down arcane notes on how to do it in the book.
 ##### <span style="color:rgb(193, 145, 56)">Pursuing Wu Ying</span> 
 
 If the players decide to start by pursuing Wu Ying, they can get off the boat and look around. They'll find several sets of footprints on the ground, but a DC 12 Investigation check will show that there are fresh tracks belonging to a human, leading upstream along the right side of the riverbank. A DC 18 Perception check will also reveal the trail with a small spatter of blood.
