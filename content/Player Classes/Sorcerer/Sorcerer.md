@@ -16,12 +16,13 @@ Sorcerers don’t learn magic; the raw, roiling power of magic is part of them. 
 Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn’t like to stay quiet. A Sorcerer’s magic wants to be wielded.
 
 
-| Sorcerer Subclasses    |
-| ---------------------- |
-| [[Aberrant Sorcery]]   |
-| [[Clockwork Sorcery]]  |
-| [[Draconic Sorcery]]   |
-| [[Wild Magic Sorcery]] |
+| Sorcerer Subclasses     |
+| ----------------------- |
+| [[Aberrant Sorcery]]    |
+| [[Clockwork Sorcery]]   |
+| [[Divine Soul Sorcery]] |
+| [[Draconic Sorcery]]    |
+| [[Wild Magic Sorcery]]  |
 
 ### Mechanical Traits
 

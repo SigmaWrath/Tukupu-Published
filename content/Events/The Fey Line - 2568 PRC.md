@@ -2,6 +2,8 @@
 tags:
   - recap
 ---
+> *<span style="color:rgb(125, 125, 125)">A summary of events that happened aboard the Fey Line in 2568 PRC.</span>*
+
 ### Act 1
 
 It was *that* time of very early morning when our heroes waited for their ride. The sky was slowly fading from black to purple in anticipation of dawn. The air atop the small mountain plateau was cool and crisp, and the day ahead brimmed with the promise of possibility, excitement—adventure. As such, the waiting passengers were abuzz with conversation. [[Elves]], [[dwarves]], [[humans]], [[gnomes]], [[halflings]] even—the anticipation was palpable and the atmosphere lively. The concourse of the train station was carved entirely out of the stone of the mountain, with the train tracks running beyond the full width of the mountaintop plateau. They abruptly stopped several hundred feet out, hanging over the valley below. A marvel of arcane engineering, the Fey Line is an inter-dimensional "train" that takes passengers on a 36-hour journey from [[Vesperia]] (the Material Plane) to the [[Feywild]], to the realm of vibrant nature unrestrained, of chaos and emotion and magic. And it was on the passenger platform, waiting for this train, where our heroes first met.
@@ -16,11 +18,11 @@ Boarding the train was fairly quick as the staff's eyes glazed over their ticket
 
 When they stepped into the Spring Carriage, the sight was astounding. The sky is bright blue. A vast, technicolor forest spans most of the landscape, and to the right of it is a river, created by a roaring waterfall that flows down an 800-foot tall cliff. The river extends to the left of the forest as well, presumably flowing through it, and opens up into a lake. A couple of Giant Eagles soared overhead. Small camps, with firepits, wooden tables and chairs, etc., dot the landscape—a few around the lake, next to the river... On the far side of all of this, a wall of mist bounds the carriage, and when turning to look at the portal that passengers come through, indeed there is a plane of white mist. 
 
-Staff members guided our heroes to a camp by the riverbank on the side of the forest with the waterfall, and brought them food as they requested (aside from Mesmerelda who had bottled cerebrospinal fluid). They talked and feasted, passing a couple of hour, sharing why they were headed to the Feywild.
+Staff members guided our heroes to a camp by the riverbank on the side of the forest with the waterfall, and brought them food as they requested. They talked and feasted, passing a couple of hour, sharing why they were headed to the Feywild.
 
 Suddenly, they heard shouting in the distance. There were no other camps around, no other people... the shouting came from the top of the cliff. And then, they saw a *person*—knocked off, pushed off, flung off, *something* off the *edge* of the cliff. And they looked on in horror, as the person tumbled, down, down, down, the waterfall, landing in the spray that the waterfall throws up as it hits the surface of the river. And then the lifeless corpse, washed up onto the riverbank—about two hundred feet away from our heroes. They decided to investigate.
 
-Upon investigating the scene at the bottom of the waterfall, our party found the corpse: an dark-skinned elf with intricately woven hair, wearing fine clothes. The blood on his elbow didn't come from him, but someone else. A tattoo on his neck signified he came from the [[Mikola Clan]], an agrarian community near the [[Waun Empire]]. Mikolans are known for being very strict about they sanctity of their minds, and are highly disciplined and place great emphasis on being rational. They also don't do drugs or ***drink alcohol***, among other things. 
+Upon investigating the scene at the bottom of the waterfall, our party found the corpse: an dark-skinned elf with intricately woven hair, wearing fine clothes. The blood on his elbow didn't come from him, but someone else. A tattoo on his neck signified he came from the [[Mikola Clan]], an agrarian community near the [[Waun Empire]]. Mikolans are known for being very strict about they sanctity of their minds, and are highly disciplined and place great emphasis on being rational. They also don't do drugs or ***drink alcohol***, among other things. The party also found his ticket, which said: `Name: Kamaeka Gilhanan; Species: Elf; Date: 2568.0.8.3 PRC; Time: Sunrise; Carriage: Winter; Camp: Bearclaw Glacier`.
 
 After they finished investigating, Theivan looted a pouch of 42 gold pieces off the dead elf, before the party buried him with 2 gold pieces for passage in the [[Houses of Night]]. The party then proceeded up the cliff from where the dead elf fell, with Jadhu flying up using her fairy wings. Theivan cast [[Feather Fall]] to save the party from a climbing accident, and they all reached the top safely.
 
@@ -36,3 +38,8 @@ They rowed on, and the temperature plummeted. They could see their own icy breat
 
 ### Act 2
 
+Wooden sign posts next to the river that indicated the names and locations of various camps in the Winter Carriage. The party recognized Bearclaw Glacier Camp as the one from the murder victim's ticket, and given that it was close by, they decided to visit that camp rather than immediately track the potential perpetrator. 
+
+The party hiked up the glacier. At the top, someone was curled up in a wooden chair, staring at the firepit, lost in thought. She was a dark-skinned elf with brown-red hair in a long braid wearing a maroon dress. They party sent Jadhu up to greet her, and after learning her name was Ilsevel, the conversation continued Jadhu saying: "We found a dead body." Eventually, the party told of how Kamaeka had died, who Ilsevel told them was her friend. Ilsevel said the reason they'd been on this train was because her girlfriend, Jasmine, had gone missing.
+
+At this point, two figures came running and shouting at the party to "step away from her!" 

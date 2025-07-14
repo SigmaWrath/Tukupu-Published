@@ -23,19 +23,20 @@ Ready to face any challenge, Rangers are survivalists at their core. The wildern
 | [[Gloom Stalker]] |
 | [[Hunter]]        |
 | [[Rothé Rider]]   |
+| [[Swarmkeeper]]   |
 
 
 ### Mechanical Traits
 
-| <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Ranger</span>                                                                                                                     |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Primary Ability**                                       | Dexterity and Wisdom                                                                                                                                                     |
-| **Hit Point Die**                                         | 1d10 per Ranger level                                                                                                                                                    |
-| **Saving Throw Proficiencies**                            | Strength and Dexterity                                                                                                                                                   |
-| **Skill Proficiencies**                                   | *Choose three*: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival                                                             |
-| **Weapon Proficiencies**                                  | Simple and Martial weapons                                                                                                                                               |
-| **Armor Training**                                        | Light and Medium armor and Shields                                                                                                                                       |
-| **Starting Equipment**                                    | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP; or (B) 150 GP |
+| <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Ranger</span>                                                                                                                    |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**                                       | Dexterity and Wisdom                                                                                                                                                    |
+| **Hit Point Die**                                         | 1d10 per Ranger level                                                                                                                                                   |
+| **Saving Throw Proficiencies**                            | Strength and Dexterity                                                                                                                                                  |
+| **Skill Proficiencies**                                   | *Choose three*: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival                                                            |
+| **Weapon Proficiencies**                                  | Simple and Martial weapons                                                                                                                                              |
+| **Armor Training**                                        | Light and Medium armor and Shields                                                                                                                                      |
+| **Starting Equipment**                                    | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP; or (B) 50 GP |
 #### <span style="color:rgb(203, 123, 55)">Becoming a Ranger</span> 
 
 ##### <span style="color:rgb(134, 93, 187)">As a Level 1 Character</span>

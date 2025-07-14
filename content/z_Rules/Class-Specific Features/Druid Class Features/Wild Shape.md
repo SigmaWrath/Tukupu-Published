@@ -17,11 +17,12 @@ When you reach certain Druid levels, your number of known forms and the maximum 
 | 2           | 4           | 1/4    | <span style="color:rgb(125, 125, 125)">—</span> |
 | 4           | 6           | 1/2    | <span style="color:rgb(125, 125, 125)">—</span> |
 | 8           | 8           | 1      | Yes                                             |
+
 **<span style="color:rgb(134, 93, 187)">Rules While Shape-Shifted</span>**: While in a form, you retain your personality, memories, and ability to speak, and the following rules apply.
 
 > **<span style="color:rgb(193, 145, 56)">Temporary Hit Points</span>**: When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.
 > 
-> **<span style="color:rgb(193, 145, 56)">Game Statistics</span>**: Your game statistics are replaced by the statistics of the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving thow modifier in the Beast'stat block is higher than yours, use the one in the stat block.
+> **<span style="color:rgb(193, 145, 56)">Game Statistics</span>**: Your game statistics are replaced by the statistics of the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 > 
 > **<span style="color:rgb(193, 145, 56)">No Spellcasting</span>**: You can’t cast spells, but shape-shifting doesn’t break your [[Concentration]] or otherwise interfere with a spell you’ve already cast.
 > 

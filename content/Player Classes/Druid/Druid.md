@@ -16,14 +16,15 @@ Revering nature above all, individual Druids gain their magic from nature and [[
 Druids are concerned with the delicate ecological balance that sustains plant and animal life and with the need for people to live in harmony with nature. Druids often guard sacred sites or watch over regions of unspoiled nature, but when a significant danger arises, Druids take a more active role as adventurers who combat the threat.
 
 
-| Druid Subclasses        |
-| ----------------------- |
-| [[Circle of the Brew]]  |
-| [[Circle of the City]]  |
-| [[Circle of the Land]]  |
-| [[Circle of the Moon]]  |
-| [[Circle of the Sea]]   |
-| [[Circle of the Stars]] |
+| Druid Subclasses         |
+| ------------------------ |
+| [[Circle of the Brew]]   |
+| [[Circle of the City]]   |
+| [[Circle of the Land]]   |
+| [[Circle of the Moon]]   |
+| [[Circle of the Sea]]    |
+| [[Circle of the Spores]] |
+| [[Circle of the Stars]]  |
 ### Mechanical Traits
 
 

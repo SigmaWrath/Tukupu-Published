@@ -1,5 +1,4 @@
-> *<span style="color:rgb(125, 125, 125)">This article presents the options for [[Sorcerer]] [[Metamagic]]. Each option costs [[Font of Magic|Sorcery Points]].</span>*
-
+> *<span style="color:rgb(125, 125, 125)">This article presents the list of options for [[Sorcerer]] [[Metamagic]]. Using each option costs [[Font of Magic|Sorcery Points]].</span>* 
 
 | <span style="color:rgb(125, 125, 125)">Metamagic</span> | <span style="color:rgb(125, 125, 125)">Sorcery Point Cost</span> |
 | ------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -13,5 +12,3 @@
 | [[Subtle Spell]]                                        | 1                                                                |
 | [[Transmuted Spell]]                                    | 1                                                                |
 | [[Twinned Spell]]                                       | 1                                                                |
-
-

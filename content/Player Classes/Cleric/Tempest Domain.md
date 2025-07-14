@@ -12,7 +12,7 @@ The tempest domain encompasses storms, sea and the sky. A tempest [[Cleric|cleri
 #### <span style="color:rgb(203, 123, 55)">Level 3: Wrath of the Storm
 </span>
 
-You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your Reaction to cause the creature to make a Dexterity save. The creature takes Lightning or Thunder (your choice) damage equal to 1d8 plus your [[Cleric]] level on a failed saving throw, and half as much damage on a successful one. You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a Long Rest.
+You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your Reaction to cause the creature to make a Dexterity save. The creature takes Lightning or Thunder (your choice) damage equal to 2d8 plus your [[Cleric]] level on a failed saving throw, and half as much damage on a successful one. You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a Long Rest.
 
 #### <span style="color:rgb(203, 123, 55)">Level 3: Domain Spells</span>
 

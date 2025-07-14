@@ -9,13 +9,22 @@ draft: true
 2.  Weapons and weapon mastery rules <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 3. Languages page, don't write articles, just list or write very brief articles <span style="color:rgb(192, 82, 75)">(BEFORE NEXT SESSION)</span>
 	1. Jupi is spoken in the Khalsan empire
-4. Inner planes maybe should have an additional collective name, a more accurate one, to refer to the collective construction of them... ooh, Terra!
-5. Four subclasses per class... try to get most done tho? Dw if not
-6. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
-7. Change the names of the renowned wizards who have spells named after them.
-8. Mortal manifestations of deities (appearances)??
-9. Solars and lunars - servants of deities
-10. Elysian Beasts - https://www.youtube.com/watch?v=dJ1MH6tMc9U
+4. Subclasses (Before 3rd level)
+	1. School of Witchcraft (Wizard)
+	2. LUNAR KNIGHT (Fighter) <span style="color:rgb(125, 125, 125)">{cycles through phases: waxing, full moon, waning ?new moon?—builds a combo that works through these phases sequentially very well. Waxing could be speed and advantage (getting positioned well), full moon is extra damage, waning is a defensive buff—new moon could be stealth or invisibility}</span>
+	3. Scion (Fighter) <span style="color:rgb(125, 125, 125)">{pointy hat}</span>
+	4. Dream Cleric features can be inspired by Dream Druid features from the 5e->2024 google doc
+5. Species to add
+	1. Verdant orcs?
+	2. Brownies?
+	3. **Wishborn**
+	4. Warforged (rename: Synths, Vessels)
+6. Inner planes maybe should have an additional collective name, a more accurate one, to refer to the collective construction of them... ooh, Terra!
+7. https://www.thegamer.com/dungeons-dragons-dnd-multiclass-spell-slots-explained-guide/
+8. Change the names of the renowned wizards who have spells named after them
+9. Mortal manifestations of deities (appearances)??
+10. Solars and lunars - servants of deities
+11. Elysian Beasts - https://www.youtube.com/watch?v=dJ1MH6tMc9U
 
 ## <span style="color:rgb(192, 82, 75)">Quartz</span>
 1. Get leaflet working (or some other pinned maps)
@@ -25,6 +34,7 @@ draft: true
 2. Rename index file with directory override
 
 ## <span style="color:rgb(203, 123, 55)">Worldbuilding Ideas</span> 
+- Runic giant magic
 - Orcs with a strong naval tradition!!
 	- Azrik Ocean is the one between the Khalsan and Gorano continents — azrik is the orcish word for tooth, which has to do with the jagged rocky protrusions in the azrik ocean
 - Model the outer planes as like "here are the planes that have the similar enough rules of physics to ours that we can survive". Perhaps include Arborea, probs the Abyss? (in a way more similar to Kane Chronicles [duat](https://riordan.fandom.com/wiki/Duat#The_Houses_of_the_Night) abyss), and model other stuff of Kane Chronicles. 
