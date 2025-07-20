@@ -22,6 +22,7 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 | [[Celestial Patron]]     |
 | [[Fiend Patron]]         |
 | [[Great Old One Patron]] |
+| [[Hexblade Patron]]      |
 ### Mechanical Traits
 
 | <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Warlock</span>                                    |

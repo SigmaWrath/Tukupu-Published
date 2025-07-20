@@ -16,13 +16,18 @@ Monks focus their internal power to create extraordinary, even supernatural, eff
 Many Monks find that a structured life of ascetic withdrawal helps them cultivate the physical and mental focus they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline. They generally view adventures as tests of their physical and mental development. 
 
 
-| Monk Subclasses                |
-| ------------------------------ |
-| [[Warrior of the Astral Self]] |
-| [[Warrior of the Elements]]    |
-| [[Warrior of Mercy]]           |
-| [[Warrior of the Open Hand]]   |
-| [[Warrior of the Shadow]]      |
+| Monk Subclasses                     |
+| ----------------------------------- |
+| [[Warrior of the Ascendent Dragon]] |
+| [[Warrior of the Astral Self]]      |
+| [[Drunken Warrior]]                 |
+| [[Warrior of the Elements]]         |
+| [[Kensei Warrior]]                  |
+| [[Warrior of Mercy]]                |
+| [[Warrior of the Open Hand]]        |
+| [[Warrior of the Shadow]]           |
+| [[Warrior of the Sun Soul]]         |
+| [[Tattooed Warrior]]                |
 
 ### Mechanical Traits
 

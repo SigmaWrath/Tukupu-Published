@@ -1,3 +1,9 @@
+---
+aliases:
+  - Flurry of Blows
+  - Patient Defense
+  - Step of the Wind
+---
 ##### *<span style="color:rgb(203, 123, 55)">[[Monk]] Class Feat (Level 2)</span>*
 
 > *<span style="color:rgb(125, 125, 125)">Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.</span>*

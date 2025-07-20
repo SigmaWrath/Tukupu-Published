@@ -18,11 +18,13 @@ Some concentrate on archery, some on fighting with two weapons at once, and some
 
 | Fighter Subclasses  |
 | ------------------- |
+| [[Arcane Archer]]   |
 | [[Battle Master]]   |
 | [[Champion]]        |
 | [[Eldritch Knight]] |
 | [[Psi Warrior]]     |
 | [[Samurai]]         |
+| [[Scion]]           |
 
 ### Mechanical Traits
 

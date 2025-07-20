@@ -1,0 +1,5 @@
+> *<span style="color:rgb(125, 125, 125)">Using divination magic, you grant your projectile the ability to seek out your target, allowing it to curve and twist its path in search of its prey.</span>* 
+
+When you use this option, you don’t make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring [[Three-Quarters Cover]] and [[Half Cover]]. If the target is within the weapon’s range and there is a path large enough for the arrow to travel to the target, the target makes a Dexterity saving throw. On a failed save, the target takes 3d6 Force damage, and you learn the target’s current location. On a successful save, the target takes half as much damage, and you don’t learn its location. 
+
+<span style="color:rgb(193, 145, 56)">The Force damage increases by 3d6 at level 10 (6d6) and at level 18 (9d6).</span> 

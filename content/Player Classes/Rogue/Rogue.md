@@ -21,6 +21,7 @@ Some Rogues began their careers as criminals, while others used their cunning to
 | [[Arcane Trickster]] |
 | [[Assassin]]         |
 | [[Soulknife]]        |
+| [[Swashbuckler]]     |
 | [[Thief]]            |
 
 ### Mechanical Traits

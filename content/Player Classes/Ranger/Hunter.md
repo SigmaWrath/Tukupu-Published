@@ -30,7 +30,7 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 #### <span style="color:rgb(203, 123, 55)">Level 11: Superior Hunter's Prey</span>
 
-Once per turn when you deal damage to a creature marked by your [[Ranger's Quarry]], you can also deal that spell’s extra damage to a different creature that you can see within 30 feet of the first creature.
+Once per turn when you deal damage to a creature marked by your [[Ranger's Quarry]], you can also deal that ability’s extra damage to a different creature that you can see within 30 feet of the first creature.
 
 #### <span style="color:rgb(203, 123, 55)">Level 15: Superior Hunter's Defense</span>
 

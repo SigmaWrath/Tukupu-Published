@@ -17,7 +17,7 @@ As a Bonus Action, you can do one of the following:
 
 #### <span style="color:rgb(203, 123, 55)">Level 3: Second-Story Work</span>
 
-You have trained to reach especially hard-to-reach places, granting you these benefits"
+You have trained to reach especially hard-to-reach places, granting you these benefits:
 
 > **<span style="color:rgb(134, 93, 187)">Climber</span>**: You gain a Climb Speed equal to your Speed.
 > 
