@@ -1,0 +1,1 @@
+> *<span style="color:rgb(125, 125, 125)">A creature's Speed is halved in Difficult Terrain.</span>*

@@ -56,6 +56,22 @@ The information below details how you use spellcasting rules with Warlock spells
 
 ###### Level 2 Warlock Spells
 
+| Spell                   | School        | Special                                         |
+| ----------------------- | ------------- | ----------------------------------------------- |
+| [[Cloud of Daggers]]    | Conjuration   | C                                               |
+| [[Crown of Madness]]    | Enchantment   | C                                               |
+| [[Darkness]]            | Evocation     | C                                               |
+| [[Enthrall]]            | Enchantment   | C                                               |
+| [[Hold Person]]         | Enchantment   | C                                               |
+| [[Invisibility]]        | Illusion      | C                                               |
+| [[Mind Spike]]          | Divination    | C                                               |
+| [[Mirror Image]]        | Illusion      | <span style="color:rgb(125, 125, 125)">—</span> |
+| [[Misty Step]]          | Conjuration   | <span style="color:rgb(125, 125, 125)">—</span> |
+| [[Ray of Enfeeblement]] | Necromancy    | C                                               |
+| [[Spider Climb]]        | Transmutation | C                                               |
+| [[Suggestion]]          | Enchantment   | C                                               |
+###### Level 3 Warlock Spells
+
 | Spell | School | Special |
 | ----- | ------ | ------- |
 |       |        |         |

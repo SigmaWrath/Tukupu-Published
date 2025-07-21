@@ -5,7 +5,7 @@ tags:
 ---
 > *<span style="color:rgb(125, 125, 125)">Weave beguiling Fey magic.</span>*
 
-The College of Glamour traces its origins to the beguiling magic of the [[Feywild]]. The Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hardhearted listeners.
+The College of Glamour traces its origins to the beguiling magic of the [[Feywild]]. The [[Bard|Bards]] who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hardhearted listeners.
 
 ### Mechanical Traits
 #### <span style="color:rgb(203, 123, 55)">Level 3: Beguiling Magic</span>

@@ -48,7 +48,7 @@ You gain the ability to infuse your projectiles with magic. 
 
 <span style="color:rgb(134, 93, 187)">**Infused Shots**</span>: Whenever you attack with a ranged weapon, you can choose to deal the weapon’s damage type or Force damage.
 
-<span style="color:rgb(134, 93, 187)">**Curved Shots**</span>: When you attack with a ranged weapon and miss, you can use your Reaction to re-roll the attack roll against a different target within 60 feet of the original target.
+<span style="color:rgb(134, 93, 187)">**Curved Shots**</span>: When you attack with a ranged weapon and miss, you can use your Bonus Action or Reaction to re-roll the attack roll against a different target within 60 feet of the original target.
 
 #### <span style="color:rgb(203, 123, 55)">Level 7: Ever-Ready Shot</span>
 When you roll Initiative and have no uses of <span style="color:rgb(203, 123, 55)">Arcane Shot</span> left, you regain one expended use of it.
