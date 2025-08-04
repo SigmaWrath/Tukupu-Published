@@ -3,4 +3,4 @@
 
 | Ability      | Weight | Utilize                                                  | Craft                                                                        |
 | ------------ | ------ | -------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Intelligence | 8 lbs  | Identify a substance (DC 15), or start a fire<br>(DC 15) | [[Acid Vial]], [[Alchemist’s Fire]], Component Pouch, Oil,<br>Paper, Perfume |
+| Intelligence | 8 lbs  | Identify a substance (DC 15), or start a fire<br>(DC 15) | [[Acid Vial]], [[Alchemist's Fire]], Component Pouch, Oil,<br>Paper, Perfume |

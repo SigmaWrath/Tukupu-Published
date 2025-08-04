@@ -1,3 +1,7 @@
+---
+aliases:
+  - Burning
+---
 
 > *<span style="color:rgb(125, 125, 125)">A burning creature or object takes 1d4 Fire damage at the start of each of its turns.</span>* 
 
