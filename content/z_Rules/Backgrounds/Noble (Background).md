@@ -6,10 +6,10 @@ tags:
 
 
 
-| <span style="color:rgb(125, 125, 125)">Feature</span> | <span style="color:rgb(125, 125, 125)">Noble</span>                                          |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Ability Scores                                        | Strength, Intelligence, Charisma                                                             |
-| Feat                                                  | [[Skilled]]                                                                                  |
-| Skill Proficiencies                                   | History and Persuasion                                                                       |
-| Tool Proficiency                                      | Choose one kind of Gaming Set                                                                |
-| Equipment                                             | *Choose A or B*: (A) Gaming Set (same as above) , Fine Clothes, Perfume, 29 GP; or (B) 50 GP |
+| <span style="color:rgb(125, 125, 125)">Feature</span> | <span style="color:rgb(125, 125, 125)">Noble</span>                                         |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Ability Scores                                        | Strength, Intelligence, Charisma                                                            |
+| Feat                                                  | [[Skilled]]                                                                                 |
+| Skill Proficiencies                                   | History and Persuasion                                                                      |
+| Tool Proficiency                                      | Choose one kind of Gaming Set                                                               |
+| Equipment                                             | *Choose A or B*: (A) Gaming Set (same as above), Fine Clothes, Perfume, 29 GP; or (B) 50 GP |

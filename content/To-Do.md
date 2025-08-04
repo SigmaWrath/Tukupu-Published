@@ -14,6 +14,7 @@ draft: true
 	2. LUNAR KNIGHT (Fighter) <span style="color:rgb(125, 125, 125)">{cycles through phases: waxing, full moon, waning ?new moon?—builds a combo that works through these phases sequentially very well. Waxing could be speed and advantage (getting positioned well), full moon is extra damage, waning is a defensive buff—new moon could be stealth or invisibility}</span>
 	3. Scion (Fighter) <span style="color:rgb(125, 125, 125)">{pointy hat}</span>
 	4. Dream Cleric features can be inspired by Dream Druid features from the 5e->2024 google doc
+	5. Path of the Witch can just be reskinned Ancestral Guardian
 5. Species to add
 	1. Verdant orcs?
 	2. Brownies?

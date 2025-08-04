@@ -18,6 +18,7 @@ Some concentrate on archery, some on fighting with two weapons at once, and some
 
 | Fighter Subclasses  |
 | ------------------- |
+| [[Alchemist]]       |
 | [[Arcane Archer]]   |
 | [[Battle Master]]   |
 | [[Champion]]        |

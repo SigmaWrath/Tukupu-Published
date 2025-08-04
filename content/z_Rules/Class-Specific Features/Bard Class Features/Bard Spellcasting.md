@@ -57,7 +57,7 @@ The information below details how you use spellcasting rules Bard spells. You ha
 | [[Illusory Script]]          | Illusion      | R, M                                            |
 | [[Longstrider]]              | Transmutation | <span style="color:rgb(125, 125, 125)">—</span> |
 | [[Silent Image]]             | Illusion      | C                                               |
-| [[Sleep]]                    | Sleep         | C                                               |
+| [[Sleep]]                    | Enchantment   | C                                               |
 | [[Speak with Animals]]       | Divination    | R                                               |
 | [[Tasha's Hideous Laughter]] | Enchantment   | C                                               |
 | [[Thunderwave]]              | Evocation     | <span style="color:rgb(125, 125, 125)">—</span> |
