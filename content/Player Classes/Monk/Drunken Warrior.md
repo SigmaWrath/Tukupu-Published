@@ -12,6 +12,8 @@ The Way of the Drunken Master teaches its students to move with the jerky, unpre
 
 A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken warrior can be a maddening, masterful foe.
 
+### Mechanical Traits
+
 #### <span style="color:rgb(203, 123, 55)">Level 3: Drunken Technique</span>
 
 Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester.
@@ -24,9 +26,9 @@ Your martial arts technique mixes combat training with the precision of a dancer
 
 You can move in sudden, swaying ways. You gain the following benefits:
 
-> **<span style="color:rgb(134, 93, 187)">Leap to Your Feet</span>**: When you have the [[Prone]] condition, you can stand up by spending 5 feet of movement, rather than half your speed.
+> **<span style="color:rgb(134, 93, 187)">*Leap to Your Feet*</span>**: When you have the [[Prone]] condition, you can stand up by spending 5 feet of movement, rather than half your speed.
 > 
-> <span style="color:rgb(134, 93, 187)">Redirect Attack</span>: You can subtract your Wisdom modifier when reducing the damage for your [[Deflect Attacks]] feature. In addition, even when a creature misses you with the attack, you can spend 1 Focus Point to use your Deflect Attacks feature to redirect it.
+> <span style="color:rgb(134, 93, 187)">***Redirect Attack***</span>: You can subtract your Wisdom modifier when reducing the damage for your [[Deflect Attacks]] feature. In addition, even when a creature misses you with the attack, you can spend 1 Focus Point to use your Deflect Attacks feature to redirect it.
 
 #### <span style="color:rgb(203, 123, 55)">Level 11: Drunkard's Luck</span>
 

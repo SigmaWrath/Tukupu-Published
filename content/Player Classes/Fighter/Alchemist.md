@@ -41,7 +41,7 @@ Each elixir appears in a vial, and the vial vanishes when the elixir is drunk or
 
 Nature presents many geographical obstacles to you when searching for alchemical ingredients. To help you navigate these obstacles, you learn to create the following potions: [[Potion of Climbing]], [[Potion of Jump]], [[Potion of Feather Fall]], and [[Potion of Water Breathing]]. 
 
-Each potion takes you 10 minutes to create. You can create a total number of these potions equal to your Proficiency Bonus, regaining all expended uses on a Long Rest.
+Each potion takes you 10 minutes to create. You can create a total number of these potions equal to your Proficiency Bonus, regaining all expended uses on a Long Rest. If any potion remains when you finish a Long Rest, the potion becomes inert, losing its effect. 
 
 #### <span style="color:rgb(203, 123, 55)">Level 7: Restorative Reagents</span>
 
@@ -59,6 +59,8 @@ You can choose the effect of half your <span style="color:rgb(203, 123, 55)">Exp
 The [[Alchemist's Fire]] you create with your [[Alchemist’s Supplies]] does 2d10 Fire damage on its initial hit, and does 1d6 Fire damage instead of 1d4 for [[Burning (Hazard)|Burning]].
 
 When you craft your Alchemist's Fire, you can modify it to deal one of the following damage types of your choice: Acid, Cold, Lightning, Necrotic, Poison, or Radiant. The Burning for this Alchemist's Explosive is also 1d6 of the same damage type.
+
+This improved explosive becomes inert if any remains after you finish a Long Rest.
 #### <span style="color:rgb(203, 123, 55)">Level 15: Biomagical Barrier</span> 
 
 When you expend a use of [[Second Wind]] and <span style="color:rgb(134, 93, 187)">Fortify</span> yourself with <span style="color:rgb(203, 123, 55)">Restorative Reagents</span>, you can sprinkle in an ingredient to give yourself Resistance to one of the following damage types of your choice: Acid, Fire, Cold, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. 

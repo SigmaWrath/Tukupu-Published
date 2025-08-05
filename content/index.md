@@ -13,8 +13,14 @@ aliases:
 
 > [!abstract] Recent Updates
 > 1. [[Alchemist]] subclass for [[Fighter|fighters]]
-> 2. [[The Fey Line - 2568 PRC]] (only Act 1 recap so far)
-> 3. [[Abjurer]] subclass for [[Wizard|wizards]]
+> 2. The following [[Monk|monk]] subclasses:
+> 	1. [[Warrior of the Ascendent Dragon]]
+> 	2. [[Drunken Warrior]]
+> 	3. [[Warrior of the Elements]]
+> 	4. [[Warrior of the Open Hand]]
+> 	5. [[Warrior of the Sun Soul]]
+> 3. [[Beast Master]] subclass for [[Ranger|rangers]]
+
 
 
 <br>

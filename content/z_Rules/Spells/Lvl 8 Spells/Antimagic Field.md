@@ -15,7 +15,7 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 **<span style="color:rgb(134, 93, 187)">Targeted Effects</span>**: Spells and other magical effects, such as magic missile and charm person, that target a creature or an object in the sphere have no effect on that target.
 
-**<span style="color:rgb(134, 93, 187)">Areas of Magic</span>**: The area of another spell or magical effect, such as fireball, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+**<span style="color:rgb(134, 93, 187)">Areas of Magic</span>**: The area of another spell or magical effect, such as [[Fireball]], can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 **<span style="color:rgb(134, 93, 187)">Spells</span>**: Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 
