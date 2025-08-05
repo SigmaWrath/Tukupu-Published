@@ -6,14 +6,14 @@ draft: false
 ---
 > *<span style="color:rgb(125, 125, 125)">Craft magical potions and elixirs.</span>*
 
-If the work of mortal history is discovering the various uses of things, then Alchemists have been around since the beginning. Before smelting or mining or even farming, intelligent creatures survived using the plants and ingredients readily provided by nature. Alchemist [[Fighter|fighters]] experimented with these ingredients to aid themselves in combat against the ferocious beasts that threatened the survival of their communities.
+If the work of mortal history is discovering the various uses of things, then Alchemists have been around since the beginning. Before smelting or mining or even farming, intelligent creatures survived using the plants and ingredients that nature provided readily. Alchemist [[Fighter|fighters]] experimented with these ingredients, developing concoctions to aid themselves in combat against the ferocious beasts that threatened the survival of their communities.
 
-Synthesizing this ancient practice with modern arcane advancements, Alchemists are standout masters in combat who create powerful potions and elixirs to strengthen themselves and their allies.
+Synthesizing this ancient practice with modern arcane advancements, Alchemists today are standout masters in combat who create powerful potions and elixirs to strengthen themselves and their allies.
 
 ### Mechanical Traits
 
 #### <span style="color:rgb(203, 123, 55)">Level 3: Forage and Flask</span>
-You gain proficiency with [[Alchemist’s Supplies]]. For brewing an [[Acid Vial]] or [[Alchemist's Fire]] with these tools, you can create 1d4 items over a Short Rest. You can add your Proficiency Bonus to attack rolls for throwing these items.
+You gain proficiency with [[Alchemist’s Supplies]], and you can use Constitution as your ability for them. For brewing an [[Acid Vial]] or [[Alchemist's Fire]] with these tools, you can create 1d4 items over a Short Rest. You add your Proficiency Bonus to attack rolls for throwing these items.
 
 If you already have proficiency with Alchemist's Supplies, you gain proficiency with one other type of [[Artisan’s Tools]] of your choice. 
 
@@ -22,14 +22,14 @@ If you already have proficiency with Alchemist's Supplies, you gain proficiency 
 Whenever you finish a Long Rest while holding Alchemist’s Supplies, you can use that tool to magically produce two elixirs. Roll on the table below for each elixir’s effect, which is triggered when someone drinks the elixir.
 
 
-| <span style="color:rgb(125, 125, 125)">d6</span> | <span style="color:rgb(125, 125, 125)">Effect</span>                                                                                                                                                                            |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                                                | **Healing**: The drinker regains a number of Hit Points equal to 2d8 plus your Proficiency Bonus.                                                                                                                               |
-| 2                                                | **Swiftness**: The drinker’s Speed doubles for 1 hour.                                                                                                                                                                          |
-| 3                                                | **Resilience**: The drinker gains a +2 bonus to AC for 1 minute.                                                                                                                                                                |
-| 4                                                | **Boldness**: The drinker can roll 1d4 and add the number rolled to every attack roll and saving throw they make for the next minute.                                                                                           |
-| 5                                                | **Flight**: The drinker gains a Fly Speed equal to their Speed for 10 minutes.                                                                                                                                                  |
-| 6                                                | **Colossus**: The drinker's Size increases by one rank (or at minimum increases them to Large). Their weapon attacks deal an extra 1d4 damage. Additionally, they have Advantage on Strength checks and Strength saving throws. |
+| <span style="color:rgb(125, 125, 125)">d6</span> | <span style="color:rgb(125, 125, 125)">Effect</span>                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                                                | **Healing**: The drinker regains a number of Hit Points equal to 2d8 plus your Proficiency Bonus.                                                                                                                                                                                                                               |
+| 2                                                | **Swiftness**: The drinker’s Speed doubles for 1 hour.                                                                                                                                                                                                                                                                          |
+| 3                                                | **Resilience**: The drinker gains a +2 bonus to AC for 1 minute.                                                                                                                                                                                                                                                                |
+| 4                                                | **Boldness**: The drinker can roll 1d4 and add the number rolled to every attack roll and saving throw they make for the next minute.                                                                                                                                                                                           |
+| 5                                                | **Flight**: The drinker gains a Fly Speed equal to their Speed for 10 minutes.                                                                                                                                                                                                                                                  |
+| 6                                                | **Colossus**: The drinker's Size increases by one rank (or at minimum increases them to Large). Their weapon attacks deal an extra 1d4 damage. Additionally, they have Advantage on Strength checks and Strength saving throws, and their carrying capacity increases according to their size. These effects last for 1 minute. |
 
 Each elixir appears in a vial, and the vial vanishes when the elixir is drunk or poured out. If any elixir remains when you finish a Long Rest, the elixir and its vial vanish. 
 
