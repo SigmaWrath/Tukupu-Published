@@ -10,7 +10,7 @@ draft: true
 **Published**: `2568.0.8.0 PRC`
 
 > [!quote] Author's Bio
-> Nyla Irosi is a [[Humans|human]] who grew up in [[Tidebreak]] in the southern part of [[Khalsan Empire|Khalsana]]. She served as an ambassador to [[Gorano]] from `2563-2566 PRC`, helping to negotiate the [[Azrik Arcane Exchange]]. These days, she can be found playing [[waterslip]], sipping on [[Amanita tea]], or deep in her research on sociopolitical phenomena. 
+> Nyla Irosi is a [[Humans|human]] who grew up in [[Tidebreak]] in the southern part of [[Khalsan Empire|Khalsana]]. She served as an ambassador to [[Gorano]] from `2563-2566 PRC`, helping to negotiate the [[Azrik Exchange Agreement]]. These days, she can be found playing [[waterslip]], sipping on [[Amanita tea]], or deep in her research on sociopolitical phenomena. 
 
 What is the cowgirl archetype:
 - Innovative, adaptable, in order to deal with the frontier

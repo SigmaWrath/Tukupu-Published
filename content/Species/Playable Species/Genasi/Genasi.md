@@ -1,12 +1,13 @@
 ---
 aliases:
   - arcaneborn
+  - genasi
 tags:
   - playable
   - species
   - humanoid
 ---
-> <span style="font-style:italic; color:rgb(125, 125, 125)">Genasi are created when [[Humans]] are touched by powerful magic, be it primordial or arcane. They carry aspects of this magic with them.</span>
+> <span style="font-style:italic; color:rgb(125, 125, 125)">Genasi are created when [[Humans|humans]] are touched by powerful magic, be it primordial or arcane. They carry aspects of this magic with them.</span>
 
 
 | Two Broad Categories of Genasi |

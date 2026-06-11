@@ -7,7 +7,7 @@ tags:
   - humanoid
   - variant
 ---
-> <span style="color:rgb(125, 125, 125)">*Spellborn [[genasi]] are born from exposure to powerful magic outside of a specific element.*</span>
+> <span style="color:rgb(125, 125, 125)">*Spellborn [[Genasi|genasi]] are born from exposure to powerful magic outside of a specific element.*</span>
 
 #### Overview
 The birth of an [[Genasi|arcaneborn]] not tied to a specific element is much rarer because it can only happen due to acute exposure to what is commonly referred as “grand magic.” Magic that changes the fabric of reality, magic that bends the Weave with such force that the ripples it leaves behind influence the lives of those close to the casting for generations; what mages would qualify as above 9th level.

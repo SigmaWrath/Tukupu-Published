@@ -2,6 +2,7 @@
 tags:
   - playable
   - subclass
+draft: true
 ---
 > *<span style="color:rgb(125, 125, 125)">Blast foes from a distance with radiant energy.</span>*
 

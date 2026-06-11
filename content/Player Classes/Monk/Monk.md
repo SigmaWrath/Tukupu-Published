@@ -20,13 +20,13 @@ Many Monks find that a structured life of ascetic withdrawal helps them cultivat
 | ----------------------------------- |
 | [[Warrior of the Ascendent Dragon]] |
 | [[Warrior of the Astral Self]]      |
+| [[Warrior of Clear Mind]]           |
 | [[Drunken Warrior]]                 |
 | [[Warrior of the Elements]]         |
 | [[Kensei Warrior]]                  |
 | [[Warrior of Mercy]]                |
 | [[Warrior of the Open Hand]]        |
 | [[Warrior of the Shadow]]           |
-| [[Warrior of the Sun Soul]]         |
 | [[Tattooed Warrior]]                |
 
 ### Mechanical Traits

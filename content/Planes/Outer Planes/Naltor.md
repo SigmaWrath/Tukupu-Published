@@ -33,7 +33,7 @@ At the heart of Nia stands the [[Dream Totem]], an enigmatic structure believed 
 ###### <span style="color:rgb(203, 123, 55)">Nura - The Nightmare Realm</span>
 Nura is the deepest and most dangerous layer of Naltor, where the separation between thought and reality collapses entirely. Here, stray ideas and emotions can take form with terrifying immediacy. A traveler’s stray fear might summon a nightmare predator; a moment of longing could create an illusory paradise that ensnares the mind.
 
-Time and space are meaningless in Nura. Those who venture too deeply risk becoming trapped in a cycle of dreams, unable to discern whether they are awake, asleep, or something else entirely. Some believe that Nura is the source of all dreams, the primordial sea from which imagination itself flows. Others warn that it is the place where forgotten dreams, abandoned thoughts, and unrealized nightmares fester, waiting for the moment to return to reality.
+Time and space are meaningless in Nura. Those who venture too deeply risk becoming trapped in a cycle of dreams, unable to discern whether they are awake, asleep, or something else entirely. Theoretical scholars believe that Nura is the source of all dreams, the primordial sea from which imagination itself flows. Practical adventurers warn that it is the place where forgotten dreams, abandoned thoughts, and unrealized nightmares fester, waiting for the moment to return to reality.
 
 > [!tip] Dreams are convergent
 > Dreams take in vast subconscious input and distill it into a singular symbolic experience, compressing, condensing, and unifying disparate thoughts. 

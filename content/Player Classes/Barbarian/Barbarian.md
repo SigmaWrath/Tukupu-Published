@@ -23,6 +23,7 @@ Barbarians often serve as protectors and leaders in their communities. They char
 | [[Path of the Wild Heart]] |
 | [[Path of the Witch]]      |
 | [[Path of the World Tree]] |
+| [[Path of the Zealot]]     |
 ### Mechanical Traits
 
 | <span style="color:rgb(125, 125, 125)">Core Traits</span> | <span style="color:rgb(125, 125, 125)">Barbarian</span>                                 |

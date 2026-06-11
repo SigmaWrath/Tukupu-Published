@@ -63,7 +63,7 @@ When you craft your Alchemist's Fire, you can modify it to deal one of the follo
 This improved explosive becomes inert if any remains after you finish a Long Rest.
 #### <span style="color:rgb(203, 123, 55)">Level 15: Biomagical Barrier</span> 
 
-When you expend a use of [[Second Wind]] and <span style="color:rgb(134, 93, 187)">Fortify</span> yourself with <span style="color:rgb(203, 123, 55)">Restorative Reagents</span>, you can sprinkle in an ingredient to give yourself Resistance to one of the following damage types of your choice: Acid, Fire, Cold, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. 
+When you expend a use of [[Second Wind]] and <span style="color:rgb(134, 93, 187)">Fortify</span> yourself with <span style="color:rgb(203, 123, 55)">Restorative Reagents</span>, you can sprinkle in an ingredient to give yourself Resistance to one of the following damage types of your choice: Acid, Fire, Cold, Lightning, Necrotic, Poison, Radiant, or Thunder. 
 
 This Resistance lasts until you take a Long Rest. 
 

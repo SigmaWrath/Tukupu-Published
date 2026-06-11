@@ -17,8 +17,6 @@ Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-b
 | ------------- | ------ | ----- |
 | Humanoid      | Medium | 30 ft |
 
-**<span style="color:rgb(134, 93, 187)">Creature Type</span>**: Humanoid Size: Medium (about 5-7 feet tall) Speed: 30 feet As a Dragonborn, you have these special traits. 
-
 **<span style="color:rgb(134, 93, 187)">Draconic Ancestry</span>**. Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
 
 

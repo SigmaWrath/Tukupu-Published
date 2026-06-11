@@ -7,7 +7,7 @@ tags:
   - species
   - humanoid
 ---
-> *<span style="color:rgb(125, 125, 125)">Evocation-born [[genasi]] are the most common type of genasi, tied to a specific element. They are sometimes referred to as "plane-touched". </span>*
+> *<span style="color:rgb(125, 125, 125)">Evocation-born [[Genasi|genasi]] are the most common type of genasi, tied to a specific element. They are sometimes referred to as "plane-touched". </span>*
 
 | <span style="color:rgb(79, 151, 125)"><u>Four Variants of Elemental Genasi</u></span> |
 | ------------------------------------------------------------------------------------- |

@@ -381,7 +381,7 @@ If creatures spot the players, they snap their fingers, and anyone traveling wit
 Once the dream sprites blink out of existence, a night terror may appear.
 
 By passing a DC 15 Arcana check, the players can successfully brew a permanent antidote using the set at the bar. If they read *Antidotes and Elixirs*, they get Advantage on this check. 
-#### <span style="color:rgb(134, 93, 187)">The Engine</span> 
+#### <span style="color:rgb(134, 93, 187)">The Engine</span>
 
 ##### <span style="color:rgb(193, 145, 56)">Entering the Engine</span>
 
@@ -394,10 +394,12 @@ In order to reach the engine, the players must go through the Autumn Carriage. A
 > [!quote] You step through the portal, and find yourself... in a *forest*—an unusual one. *Red* and *pink* trees and brush are in various stages of bloom, orange and brown fallen leaves coat the ground, spotted with piles of snow around the bases of trees. The flat grey light of overcast sky somehow gives a *sharper* edge to the strangely colored foliage around you. 
 > But the most notable thing is the arcane mechanical infrastructure. Glass pipes embedded in the ground run forward, filled with fluids of various color and viscosity. Small orbs of white crystal hang high in the air above you, lightning crackling between them. 
 > 
-> Off in the distance, you see those same tiny blue insectoid creatures from the Summer Carriage, one of those black oozes from the Library—a large stone structure obscures your view. And more than that—strung up from the trees in gossamer-like cocoons, are dozens, no—more than a couple hundred people—passengers and staff alike. 
-
+> Off in the distance, you see those same tiny blue insectoid creatures from the Summer Carriage, one of those black oozes from the Library—a large stone structure obscures your view of the front of the Engine Car (though can see the stone sides of a main console). And more than that—strung up from the trees in gossamer-like cocoons, are dozens, no—more than a couple hundred people—passengers and staff alike. 
 
 ##### <span style="color:rgb(193, 145, 56)">The Dream Queen (aka Nyxoneiro, aka The Pleasantry Queen)</span>
 
 > [!quote] As you round the stone structure, a very large creature comes fully into view. A ten-foot tall, blue insectoid, with four sets of wings, spindly limbs, and a massive, sharp stinger.
 
+![[Dream Queen Stat Block.png]]
+
+![[Pleasantry Stat Block.png]]

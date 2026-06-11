@@ -18,8 +18,7 @@ aliases:
 > 	2. [[Drunken Warrior]]
 > 	3. [[Warrior of the Elements]]
 > 	4. [[Warrior of the Open Hand]]
-> 	5. [[Warrior of the Sun Soul]]
-> 3. [[Beast Master]] subclass for [[Ranger|rangers]]
+> 2. [[Beast Master]] subclass for [[Ranger|rangers]]
 
 
 
